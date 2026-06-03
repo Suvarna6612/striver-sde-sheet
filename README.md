@@ -21,56 +21,59 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ---
 
+# Progress Tracker 📚
+
+| Day   | Topic          | Problems Solved |
+| ----- | -------------- | --------------- |
+| Day 1 | Arrays         | 3 Problems      |
+| Day 2 | Arrays         | 3 Problems      |
+| Day 3 | Arrays Part-II | 3 Problems      |
+
+---
+
 # Day 1 - Arrays
 
-## 1. Set Matrix Zeroes
+## Problems Solved
 
-Problem:
-Given a matrix, if an element is 0, set its entire row and column to 0.
+### 1. Set Matrix Zeroes
 
-Technique Used:
+**Techniques Used**
 
 * Marker Technique
 * In-place Matrix Manipulation
 * Space Optimization
 
-Complexity:
+**Complexity**
 
 * Time: O(N × M)
 * Space: O(1)
 
 ---
 
-## 2. Pascal's Triangle
+### 2. Pascal's Triangle
 
-Problem:
-Generate Pascal’s Triangle for the given number of rows.
-
-Technique Used:
+**Techniques Used**
 
 * Pattern Building
-* Dynamic Programming style relation
+* Dynamic Programming Relation
 * Combinatorics Observation
 
-Complexity:
+**Complexity**
 
 * Time: O(N²)
 * Space: O(N²)
 
 ---
 
-## 3. Next Permutation
+### 3. Next Permutation
 
-Problem:
-Find the next lexicographically greater permutation of the array.
-
-Technique Used:
+**Techniques Used**
 
 * Greedy Algorithm
 * Lexicographical Ordering
 * Array Manipulation
 
-Complexity:
+**Complexity**
 
 * Time: O(N)
 * Space: O(1)
@@ -79,55 +82,107 @@ Complexity:
 
 # Day 2 - Arrays
 
-## 1. Best Time to Buy and Sell Stock
+## Problems Solved
 
-Problem:
-Find the maximum profit from a single stock transaction.
+### 1. Best Time to Buy and Sell Stock
 
-Technique Used:
+**Techniques Used**
 
 * Greedy Algorithm
 * Running Minimum Tracking
 
-Complexity:
+**Complexity**
 
 * Time: O(N)
 * Space: O(1)
 
 ---
 
-## 2. Maximum Subarray (Kadane’s Algorithm)
+### 2. Maximum Subarray (Kadane’s Algorithm)
 
-Problem:
-Find the contiguous subarray with maximum sum.
-
-Technique Used:
+**Techniques Used**
 
 * Kadane’s Algorithm
-* Greedy + Dynamic Programming Intuition
+* Greedy + DP Intuition
 
-Complexity:
+**Complexity**
 
 * Time: O(N)
 * Space: O(1)
 
 ---
 
-## 3. Sort Colors
+### 3. Sort Colors
 
-Problem:
-Sort an array containing only 0s, 1s, and 2s.
-
-Technique Used:
+**Techniques Used**
 
 * Dutch National Flag Algorithm
 * Three Pointer Technique
 * In-place Sorting
 
-Complexity:
+**Complexity**
 
 * Time: O(N)
 * Space: O(1)
+
+---
+
+# Day 3 - Arrays Part II
+
+## Problems Solved
+
+### 1. Rotate Matrix by 90 Degrees
+
+**Techniques Used**
+
+* Matrix Transpose
+* In-place Matrix Rotation
+* Two Pointer Technique
+
+**Complexity**
+
+* Time: O(N²)
+* Space: O(1)
+
+---
+
+### 2. Merge Overlapping Intervals
+
+**Techniques Used**
+
+* Sorting
+* Greedy Approach
+* Interval Merging
+
+**Complexity**
+
+* Time: O(N log N)
+* Space: O(N)
+
+---
+
+### 3. Merge Sorted Array
+
+**Techniques Used**
+
+* Three Pointer Technique
+* Backward Traversal
+* In-place Merging
+
+**Complexity**
+
+* Time: O(m + n)
+* Space: O(1)
+
+---
+
+# Key Learnings ✨
+
+* Improved array problem-solving skills
+* Learned greedy and interval-based approaches
+* Practiced matrix manipulation techniques
+* Understood in-place optimization methods
+* Strengthened understanding of pointers and traversal techniques
 
 ---
 
@@ -137,17 +192,17 @@ I will continue updating this repository daily with:
 
 * Problem solutions
 * Optimized approaches
-* Clean code
+* Clean and readable code
 * DSA concepts and techniques
 
 ---
 
-## Profiles 🌐
+# Profiles 🌐
 
-* LeetCode : https://leetcode.com/u/Suvarna_300/
-* GitHub : https://github.com/Suvarna6612
-* LinkedIn : www.linkedin.com/in/suvarna-chandarlapati-6a90a2317
+* LeetCode: https://leetcode.com/u/Suvarna_300/
+* GitHub: https://github.com/Suvarna6612
+* LinkedIn: [www.linkedin.com/in/suvarna-chandarlapati-6a90a2317](http://www.linkedin.com/in/suvarna-chandarlapati-6a90a2317)
 
 ---
 
-# Let's crack top product companies 🚀
+# Let's Crack Top Product Companies 🚀
