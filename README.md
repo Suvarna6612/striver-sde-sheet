@@ -16,18 +16,19 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 # Tech Stack 💻
 
 * Language: Java
-* Platform: LeetCode
+* Platform: LeetCode / takeUforward
 * Version Control: Git & GitHub
 
 ---
 
 # Progress Tracker 📚
 
-| Day   | Topic          | Problems Solved |
-| ----- | -------------- | --------------- |
-| Day 1 | Arrays         | 3 Problems      |
-| Day 2 | Arrays         | 3 Problems      |
-| Day 3 | Arrays Part-II | 3 Problems      |
+| Day   | Topic           | Problems Solved |
+| ----- | --------------- | --------------- |
+| Day 1 | Arrays          | 3 Problems      |
+| Day 2 | Arrays          | 3 Problems      |
+| Day 3 | Arrays Part-II  | 3 Problems      |
+| Day 4 | Arrays Part-III | 3 Problems      |
 
 ---
 
@@ -176,13 +177,64 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ---
 
+# Day 4 - Arrays Part III
+
+## Problems Solved
+
+### 1. Find Duplicate Number
+
+**Techniques Used**
+
+* Floyd’s Cycle Detection
+* Slow & Fast Pointers
+* Linked List Cycle Logic
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 2. Find Repeating and Missing Number
+
+**Techniques Used**
+
+* Mathematical Observation
+* Sum Formula
+* Square Sum Formula
+* Equation Solving
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 3. Count Inversions
+
+**Techniques Used**
+
+* Merge Sort
+* Divide and Conquer
+* Counting During Merge
+
+**Complexity**
+
+* Time: O(N log N)
+* Space: O(N)
+
+---
+
 # Key Learnings ✨
 
 * Improved array problem-solving skills
-* Learned greedy and interval-based approaches
-* Practiced matrix manipulation techniques
-* Understood in-place optimization methods
-* Strengthened understanding of pointers and traversal techniques
+* Learned greedy and mathematical optimization techniques
+* Practiced matrix manipulation and interval merging
+* Understood Floyd’s Cycle Detection Algorithm
+* Strengthened Merge Sort and divide-and-conquer concepts
+* Improved pointer and traversal techniques
 
 ---
 
