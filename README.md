@@ -29,6 +29,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 2 | Arrays          | 3 Problems      |
 | Day 3 | Arrays Part-II  | 3 Problems      |
 | Day 4 | Arrays Part-III | 3 Problems      |
+| Day 5 | Arrays Part-III | 3 Problems      |
 
 ---
 
@@ -227,6 +228,55 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ---
 
+# Day 5 - Arrays Part III
+
+## Problems Solved
+
+### 1. Search in a 2D Matrix
+
+**Techniques Used**
+
+* Binary Search
+* Matrix Index Mapping
+* Array Flattening Concept
+
+**Complexity**
+
+* Time: O(log(m × n))
+* Space: O(1)
+
+---
+
+### 2. Pow(x, n)
+
+**Techniques Used**
+
+* Binary Exponentiation
+* Divide and Conquer
+* Fast Power Calculation
+
+**Complexity**
+
+* Time: O(log n)
+* Space: O(1)
+
+---
+
+### 3. Majority Element
+
+**Techniques Used**
+
+* Boyer-Moore Voting Algorithm
+* Candidate Elimination
+* Greedy Observation
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
 # Key Learnings ✨
 
 * Improved array problem-solving skills
@@ -234,7 +284,10 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Practiced matrix manipulation and interval merging
 * Understood Floyd’s Cycle Detection Algorithm
 * Strengthened Merge Sort and divide-and-conquer concepts
-* Improved pointer and traversal techniques
+* Learned Binary Search on matrices
+* Practiced Binary Exponentiation for logarithmic optimization
+* Improved understanding of Boyer-Moore Voting Algorithm
+* Strengthened pointer and traversal techniques
 
 ---
 
@@ -253,7 +306,7 @@ I will continue updating this repository daily with:
 
 * LeetCode: https://leetcode.com/u/Suvarna_300/
 * GitHub: https://github.com/Suvarna6612
-* LinkedIn: [www.linkedin.com/in/suvarna-chandarlapati-6a90a2317](http://www.linkedin.com/in/suvarna-chandarlapati-6a90a2317)
+* LinkedIn: http://www.linkedin.com/in/suvarna-chandarlapati-6a90a2317
 
 ---
 
