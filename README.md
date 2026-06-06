@@ -30,6 +30,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 3 | Arrays Part-II  | 3 Problems      |
 | Day 4 | Arrays Part-III | 3 Problems      |
 | Day 5 | Arrays Part-III | 3 Problems      |
+| Day 6 | Arrays Part-III | 3 Problems      |
 
 ---
 
@@ -38,6 +39,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 ## Problems Solved
 
 ### 1. Set Matrix Zeroes
+
+**Problem:**
+If an element in the matrix is 0, set its entire row and column to 0.
 
 **Techniques Used**
 
@@ -54,6 +58,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ### 2. Pascal's Triangle
 
+**Problem:**
+Generate Pascal’s Triangle for the given number of rows.
+
 **Techniques Used**
 
 * Pattern Building
@@ -68,6 +75,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 ---
 
 ### 3. Next Permutation
+
+**Problem:**
+Find the next lexicographically greater permutation of the array.
 
 **Techniques Used**
 
@@ -88,6 +98,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ### 1. Best Time to Buy and Sell Stock
 
+**Problem:**
+Find the maximum profit possible from a single stock transaction.
+
 **Techniques Used**
 
 * Greedy Algorithm
@@ -102,6 +115,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ### 2. Maximum Subarray (Kadane’s Algorithm)
 
+**Problem:**
+Find the contiguous subarray with the maximum sum.
+
 **Techniques Used**
 
 * Kadane’s Algorithm
@@ -115,6 +131,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 ---
 
 ### 3. Sort Colors
+
+**Problem:**
+Sort an array containing only 0s, 1s, and 2s.
 
 **Techniques Used**
 
@@ -135,6 +154,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ### 1. Rotate Matrix by 90 Degrees
 
+**Problem:**
+Rotate a square matrix by 90 degrees clockwise in-place.
+
 **Techniques Used**
 
 * Matrix Transpose
@@ -150,6 +172,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ### 2. Merge Overlapping Intervals
 
+**Problem:**
+Merge all overlapping intervals into a single interval.
+
 **Techniques Used**
 
 * Sorting
@@ -164,6 +189,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 ---
 
 ### 3. Merge Sorted Array
+
+**Problem:**
+Merge two sorted arrays into one sorted array without extra space.
 
 **Techniques Used**
 
@@ -184,6 +212,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ### 1. Find Duplicate Number
 
+**Problem:**
+Find the duplicate number in the array without modifying the array.
+
 **Techniques Used**
 
 * Floyd’s Cycle Detection
@@ -198,6 +229,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 ---
 
 ### 2. Find Repeating and Missing Number
+
+**Problem:**
+Find the repeating and missing numbers in the array.
 
 **Techniques Used**
 
@@ -214,6 +248,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 ---
 
 ### 3. Count Inversions
+
+**Problem:**
+Count pairs where arr[i] > arr[j] and i < j.
 
 **Techniques Used**
 
@@ -234,6 +271,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ### 1. Search in a 2D Matrix
 
+**Problem:**
+Search for a target value in a sorted 2D matrix.
+
 **Techniques Used**
 
 * Binary Search
@@ -248,6 +288,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 ---
 
 ### 2. Pow(x, n)
+
+**Problem:**
+Calculate x raised to the power n efficiently.
 
 **Techniques Used**
 
@@ -264,6 +307,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ### 3. Majority Element
 
+**Problem:**
+Find the element appearing more than n/2 times in the array.
+
 **Techniques Used**
 
 * Boyer-Moore Voting Algorithm
@@ -277,6 +323,65 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 ---
 
+# Day 6 - Arrays Part III
+
+## Problems Solved
+
+### 1. Majority Element II
+
+**Problem:**
+Find all elements appearing more than n/3 times in the array.
+
+**Techniques Used**
+
+* Boyer-Moore Voting Algorithm
+* Candidate Tracking
+* Greedy Elimination
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 2. Unique Paths
+
+**Problem:**
+Count the number of unique paths from top-left to bottom-right in a grid.
+
+**Techniques Used**
+
+* Combinatorics
+* Dynamic Programming Intuition
+* Mathematical Optimization
+
+**Complexity**
+
+* Time: O(min(m,n))
+* Space: O(1)
+
+---
+
+### 3. Reverse Pairs
+
+**Problem:**
+Count pairs such that nums[i] > 2 × nums[j] where i < j.
+
+**Techniques Used**
+
+* Merge Sort
+* Divide and Conquer
+* Two Pointer Technique
+* Advanced Pair Counting
+
+**Complexity**
+
+* Time: O(N log N)
+* Space: O(N)
+
+---
+
 # Key Learnings ✨
 
 * Improved array problem-solving skills
@@ -287,6 +392,8 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Learned Binary Search on matrices
 * Practiced Binary Exponentiation for logarithmic optimization
 * Improved understanding of Boyer-Moore Voting Algorithm
+* Learned combinatorics-based optimization for grid problems
+* Practiced advanced Merge Sort applications for pair counting
 * Strengthened pointer and traversal techniques
 
 ---
