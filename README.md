@@ -31,6 +31,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 4 | Arrays Part-III | 3 Problems      |
 | Day 5 | Arrays Part-III | 3 Problems      |
 | Day 6 | Arrays Part-III | 3 Problems      |
+| Day 7 | Arrays Part-IV  | 3 Problems      |
 
 ---
 
@@ -382,6 +383,66 @@ Count pairs such that nums[i] > 2 × nums[j] where i < j.
 
 ---
 
+# Day 7 - Arrays Part IV
+
+## Problems Solved
+
+### 1. Two Sum
+
+**Problem:**
+Find two indices such that their corresponding values add up to the target.
+
+**Techniques Used**
+
+* HashMap
+* Complement Search
+* One Pass Traversal
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(N)
+
+---
+
+### 2. 4Sum
+
+**Problem:**
+Find all unique quadruplets whose sum equals the target value.
+
+**Techniques Used**
+
+* Sorting
+* Two Pointer Technique
+* Duplicate Handling
+* Nested Traversal
+
+**Complexity**
+
+* Time: O(N³)
+* Space: O(1)
+
+---
+
+### 3. Longest Consecutive Sequence
+
+**Problem:**
+Find the length of the longest sequence of consecutive integers in the array.
+
+**Techniques Used**
+
+* HashSet
+* Sequence Detection
+* Linear Traversal
+* Optimization
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(N)
+
+---
+
 # Key Learnings ✨
 
 * Improved array problem-solving skills
@@ -394,6 +455,11 @@ Count pairs such that nums[i] > 2 × nums[j] where i < j.
 * Improved understanding of Boyer-Moore Voting Algorithm
 * Learned combinatorics-based optimization for grid problems
 * Practiced advanced Merge Sort applications for pair counting
+* Learned HashMap-based optimization techniques
+* Practiced Two Pointer approach for k-sum problems
+* Improved understanding of duplicate handling in arrays
+* Learned HashSet-based sequence detection
+* Strengthened linear-time optimization techniques
 * Strengthened pointer and traversal techniques
 
 ---
