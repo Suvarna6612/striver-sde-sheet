@@ -32,6 +32,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 5 | Arrays Part-III | 3 Problems      |
 | Day 6 | Arrays Part-III | 3 Problems      |
 | Day 7 | Arrays Part-IV  | 3 Problems      |
+| Day 8 | Arrays Part-IV  | 3 Problems      |
 
 ---
 
@@ -443,6 +444,64 @@ Find the length of the longest sequence of consecutive integers in the array.
 
 ---
 
+# Day 8 - Arrays Part IV
+
+## Problems Solved
+
+### 1. Longest Subarray with Sum K
+
+**Problem:**
+Find the length of the longest subarray whose sum equals k.
+
+**Techniques Used**
+
+* Prefix Sum
+* HashMap
+* Longest Window Tracking
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(N)
+
+---
+
+### 2. Count Subarrays with XOR K
+
+**Problem:**
+Count the number of subarrays whose XOR equals k.
+
+**Techniques Used**
+
+* Prefix XOR
+* HashMap
+* Bit Manipulation Logic
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(N)
+
+---
+
+### 3. Longest Substring Without Repeating Characters
+
+**Problem:**
+Find the length of the longest substring without duplicate characters.
+
+**Techniques Used**
+
+* Sliding Window
+* HashMap
+* Two Pointer Technique
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(N)
+
+---
+
 # Key Learnings ✨
 
 * Improved array problem-solving skills
@@ -459,6 +518,8 @@ Find the length of the longest sequence of consecutive integers in the array.
 * Practiced Two Pointer approach for k-sum problems
 * Improved understanding of duplicate handling in arrays
 * Learned HashSet-based sequence detection
+* Practiced Prefix Sum and Prefix XOR patterns
+* Learned Sliding Window optimization for strings
 * Strengthened linear-time optimization techniques
 * Strengthened pointer and traversal techniques
 
