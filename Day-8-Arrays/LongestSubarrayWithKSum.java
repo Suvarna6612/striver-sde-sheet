@@ -1,7 +1,7 @@
 
 import java.util.HashMap;
 
-class Solution {
+public class LongestSubarrayWithKSum {
     public int longestSubarray(int[] nums, int k) {
 
         HashMap<Integer, Integer> map = new HashMap<>();

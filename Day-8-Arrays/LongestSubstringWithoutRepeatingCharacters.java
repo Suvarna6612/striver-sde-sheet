@@ -1,7 +1,7 @@
 
 import java.util.HashMap;
 
-class Solution {
+class LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
 
         HashMap<Character, Integer> map = new HashMap<>();

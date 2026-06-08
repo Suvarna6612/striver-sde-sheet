@@ -1,7 +1,7 @@
 
 import java.util.HashMap;
 
-class Solution {
+class CountSubarraysWithoutXorK {
     public int subarraysWithXorK(int[] nums, int k) {
 
         HashMap<Integer, Integer> map = new HashMap<>();
