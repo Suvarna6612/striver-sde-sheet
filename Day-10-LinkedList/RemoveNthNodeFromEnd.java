@@ -17,7 +17,6 @@ class Solution {
             fast = fast.next;
             slow = slow.next;
         }
-
         // Remove nth node
         slow.next = slow.next.next;
 
