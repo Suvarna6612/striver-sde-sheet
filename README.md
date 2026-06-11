@@ -23,16 +23,18 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 
 # Progress Tracker 📚
 
-| Day   | Topic           | Problems Solved |
-| ----- | --------------- | --------------- |
-| Day 1 | Arrays          | 3 Problems      |
-| Day 2 | Arrays          | 3 Problems      |
-| Day 3 | Arrays Part-II  | 3 Problems      |
-| Day 4 | Arrays Part-III | 3 Problems      |
-| Day 5 | Arrays Part-III | 3 Problems      |
-| Day 6 | Arrays Part-III | 3 Problems      |
-| Day 7 | Arrays Part-IV  | 3 Problems      |
-| Day 8 | Arrays Part-IV  | 3 Problems      |
+| Day    | Topic           | Problems Solved |
+| ------ | --------------- | --------------- |
+| Day 1  | Arrays          | 3 Problems      |
+| Day 2  | Arrays          | 3 Problems      |
+| Day 3  | Arrays Part-II  | 3 Problems      |
+| Day 4  | Arrays Part-III | 3 Problems      |
+| Day 5  | Arrays Part-III | 3 Problems      |
+| Day 6  | Arrays Part-III | 3 Problems      |
+| Day 7  | Arrays Part-IV  | 3 Problems      |
+| Day 8  | Arrays Part-IV  | 3 Problems      |
+| Day 9  | Linked List     | 3 Problems      |
+| Day 10 | Linked List     | 3 Problems      |
 
 ---
 
@@ -451,13 +453,13 @@ Find the length of the longest sequence of consecutive integers in the array.
 ### 1. Longest Subarray with Sum K
 
 **Problem:**
-Find the length of the longest subarray whose sum equals k.
+Find the length of the longest subarray whose sum equals K.
 
 **Techniques Used**
 
 * Prefix Sum
 * HashMap
-* Longest Window Tracking
+* Efficient Traversal
 
 **Complexity**
 
@@ -466,10 +468,10 @@ Find the length of the longest subarray whose sum equals k.
 
 ---
 
-### 2. Count Subarrays with XOR K
+### 2. Count Subarrays with Given XOR K
 
 **Problem:**
-Count the number of subarrays whose XOR equals k.
+Count the number of subarrays having XOR equal to K.
 
 **Techniques Used**
 
@@ -492,7 +494,7 @@ Find the length of the longest substring without duplicate characters.
 **Techniques Used**
 
 * Sliding Window
-* HashMap
+* HashSet / HashMap
 * Two Pointer Technique
 
 **Complexity**
@@ -502,9 +504,124 @@ Find the length of the longest substring without duplicate characters.
 
 ---
 
+# Day 9 - Linked List
+
+## Problems Solved
+
+### 1. Reverse Linked List
+
+**Problem:**
+Reverse a singly linked list.
+
+**Techniques Used**
+
+* Iterative Traversal
+* Pointer Manipulation
+* In-place Reversal
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 2. Middle of the Linked List
+
+**Problem:**
+Find the middle node of a linked list.
+
+**Techniques Used**
+
+* Slow & Fast Pointer
+* Two Pointer Technique
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 3. Merge Two Sorted Lists
+
+**Problem:**
+Merge two sorted linked lists into one sorted list.
+
+**Techniques Used**
+
+* Linked List Traversal
+* Dummy Node Technique
+* Pointer Manipulation
+
+**Complexity**
+
+* Time: O(N + M)
+* Space: O(1)
+
+---
+
+# Day 10 - Linked List
+
+## Problems Solved
+
+### 1. Remove Nth Node From End of List
+
+**Problem:**
+Remove the nth node from the end of a linked list.
+
+**Techniques Used**
+
+* Fast & Slow Pointer
+* Dummy Node
+* One Pass Traversal
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 2. Add Two Numbers
+
+**Problem:**
+Add two numbers represented as linked lists.
+
+**Techniques Used**
+
+* Linked List Traversal
+* Carry Handling
+* Dummy Node Technique
+
+**Complexity**
+
+* Time: O(max(N,M))
+* Space: O(max(N,M))
+
+---
+
+### 3. Delete Node in a Linked List
+
+**Problem:**
+Delete a node in O(1) time without access to the head node.
+
+**Techniques Used**
+
+* In-place Modification
+* Pointer Manipulation
+* Node Replacement Trick
+
+**Complexity**
+
+* Time: O(1)
+* Space: O(1)
+
+---
+
 # Key Learnings ✨
 
-* Improved array problem-solving skills
+* Improved array and linked list problem-solving skills
 * Learned greedy and mathematical optimization techniques
 * Practiced matrix manipulation and interval merging
 * Understood Floyd’s Cycle Detection Algorithm
@@ -514,14 +631,11 @@ Find the length of the longest substring without duplicate characters.
 * Improved understanding of Boyer-Moore Voting Algorithm
 * Learned combinatorics-based optimization for grid problems
 * Practiced advanced Merge Sort applications for pair counting
-* Learned HashMap-based optimization techniques
-* Practiced Two Pointer approach for k-sum problems
-* Improved understanding of duplicate handling in arrays
-* Learned HashSet-based sequence detection
-* Practiced Prefix Sum and Prefix XOR patterns
-* Learned Sliding Window optimization for strings
-* Strengthened linear-time optimization techniques
-* Strengthened pointer and traversal techniques
+* Learned HashMap and HashSet optimization techniques
+* Practiced Sliding Window and Two Pointer approaches
+* Improved linked list pointer manipulation skills
+* Strengthened fast & slow pointer concepts
+* Improved understanding of in-place linked list operations
 
 ---
 
