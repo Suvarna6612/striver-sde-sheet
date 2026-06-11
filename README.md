@@ -22,20 +22,17 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 ---
 
 # Progress Tracker 📚
-
-| Day    | Topic           | Problems Solved |
-| ------ | --------------- | --------------- |
-| Day 1  | Arrays          | 3 Problems      |
-| Day 2  | Arrays          | 3 Problems      |
-| Day 3  | Arrays Part-II  | 3 Problems      |
-| Day 4  | Arrays Part-III | 3 Problems      |
-| Day 5  | Arrays Part-III | 3 Problems      |
-| Day 6  | Arrays Part-III | 3 Problems      |
-| Day 7  | Arrays Part-IV  | 3 Problems      |
-| Day 8  | Arrays Part-IV  | 3 Problems      |
-| Day 9  | Linked List     | 3 Problems      |
-| Day 10 | Linked List     | 3 Problems      |
-
+| Day 1  | Arrays              | 3 Problems      |
+| Day 2  | Arrays              | 3 Problems      |
+| Day 3  | Arrays Part-II      | 3 Problems      |
+| Day 4  | Arrays Part-III     | 3 Problems      |
+| Day 5  | Arrays Part-III     | 3 Problems      |
+| Day 6  | Arrays Part-III     | 3 Problems      |
+| Day 7  | Arrays Part-IV      | 3 Problems      |
+| Day 8  | Arrays Part-IV      | 3 Problems      |
+| Day 9  | Linked List         | 3 Problems      |
+| Day 10 | Linked List         | 3 Problems      |
+| Day 11 | Linked List Part-II | 3 Problems      |
 ---
 
 # Day 1 - Arrays
@@ -615,6 +612,64 @@ Delete a node in O(1) time without access to the head node.
 **Complexity**
 
 * Time: O(1)
+* Space: O(1)
+
+---
+
+# Day 11 - Linked List Part II
+
+## Problems Solved
+
+### 1. Intersection of Two Linked Lists
+
+**Problem:**
+Find the node at which two linked lists intersect.
+
+**Techniques Used**
+
+* Two Pointer Technique
+* Pointer Switching
+* Linked List Traversal
+
+**Complexity**
+
+* Time: O(N + M)
+* Space: O(1)
+
+---
+
+### 2. Linked List Cycle
+
+**Problem:**
+Determine whether a linked list contains a cycle.
+
+**Techniques Used**
+
+* Floyd’s Cycle Detection Algorithm
+* Slow & Fast Pointers
+* Two Pointer Technique
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 3. Reverse Nodes in K Group
+
+**Problem:**
+Reverse nodes of a linked list in groups of size K.
+
+**Techniques Used**
+
+* Linked List Reversal
+* Pointer Manipulation
+* Group-wise Processing
+
+**Complexity**
+
+* Time: O(N)
 * Space: O(1)
 
 ---
