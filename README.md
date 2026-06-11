@@ -691,6 +691,12 @@ Reverse nodes of a linked list in groups of size K.
 * Improved linked list pointer manipulation skills
 * Strengthened fast & slow pointer concepts
 * Improved understanding of in-place linked list operations
+* Learned intersection detection using pointer switching
+* Practiced Floyd's Cycle Detection algorithm for linked lists
+* Improved understanding of cycle-based linked list problems
+* Learned group-wise linked list reversal techniques
+* Strengthened advanced pointer manipulation skills
+* Practiced solving hard linked list interview questions
 
 ---
 
