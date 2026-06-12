@@ -22,17 +22,22 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 ---
 
 # Progress Tracker 📚
-| Day 1  | Arrays              | 3 Problems      |
-| Day 2  | Arrays              | 3 Problems      |
-| Day 3  | Arrays Part-II      | 3 Problems      |
-| Day 4  | Arrays Part-III     | 3 Problems      |
-| Day 5  | Arrays Part-III     | 3 Problems      |
-| Day 6  | Arrays Part-III     | 3 Problems      |
-| Day 7  | Arrays Part-IV      | 3 Problems      |
-| Day 8  | Arrays Part-IV      | 3 Problems      |
-| Day 9  | Linked List         | 3 Problems      |
-| Day 10 | Linked List         | 3 Problems      |
-| Day 11 | Linked List Part-II | 3 Problems      |
+
+| Day    | Topic                | Problems Solved |
+| -------| -------------------- | --------------- |
+| Day 1  | Arrays               | 3 Problems      |
+| Day 2  | Arrays               | 3 Problems      |
+| Day 3  | Arrays Part-II       | 3 Problems      |
+| Day 4  | Arrays Part-III      | 3 Problems      |
+| Day 5  | Arrays Part-III      | 3 Problems      |
+| Day 6  | Arrays Part-III      | 3 Problems      |
+| Day 7  | Arrays Part-IV       | 3 Problems      |
+| Day 8  | Arrays Part-IV       | 3 Problems      |
+| Day 9  | Linked List          | 3 Problems      |
+| Day 10 | Linked List          | 3 Problems      |
+| Day 11 | Linked List Part-II  | 3 Problems      |
+| Day 12 | Linked List Part-II  | 3 Problems      |
+
 ---
 
 # Day 1 - Arrays
@@ -674,6 +679,64 @@ Reverse nodes of a linked list in groups of size K.
 
 ---
 
+# Day 12 - Linked List Part II
+
+## Problems Solved
+
+### 1. Palindrome Linked List
+
+**Problem:**
+Determine whether a linked list reads the same forward and backward.
+
+**Techniques Used**
+
+* Slow & Fast Pointer
+* Linked List Reversal
+* Two Pointer Comparison
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 2. Linked List Cycle II
+
+**Problem:**
+Find the starting node of a cycle in a linked list.
+
+**Techniques Used**
+
+* Floyd’s Cycle Detection Algorithm
+* Slow & Fast Pointers
+* Mathematical Cycle Analysis
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 3. Flattening of Linked List
+
+**Problem:**
+Flatten a multi-level sorted linked list into a single sorted linked list.
+
+**Techniques Used**
+
+* Merge Two Sorted Lists
+* Recursion
+* Divide and Conquer
+
+**Complexity**
+
+* Time: O(N × M) (depending on structure)
+* Space: O(N) (recursive stack)
+
+---
+
 # Key Learnings ✨
 
 * Improved array and linked list problem-solving skills
@@ -697,6 +760,12 @@ Reverse nodes of a linked list in groups of size K.
 * Learned group-wise linked list reversal techniques
 * Strengthened advanced pointer manipulation skills
 * Practiced solving hard linked list interview questions
+* Learned palindrome detection in linked lists using reversal technique
+* Strengthened understanding of Floyd’s Cycle Detection Algorithm
+* Learned how to find the starting point of a cycle mathematically
+* Practiced recursive linked list flattening
+* Improved divide-and-conquer problem-solving skills
+* Strengthened advanced linked list manipulation techniques
 
 ---
 
