@@ -37,6 +37,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 10 | Linked List          | 3 Problems      |
 | Day 11 | Linked List Part-II  | 3 Problems      |
 | Day 12 | Linked List Part-II  | 3 Problems      |
+| Day 13 | Linked List & Arrays | 3 Problems      |
 
 ---
 
@@ -737,6 +738,64 @@ Flatten a multi-level sorted linked list into a single sorted linked list.
 
 ---
 
+# Day 13 - Linked List & Arrays
+
+## Problems Solved
+
+### 1. Rotate List
+
+**Problem:**
+Rotate a linked list to the right by k positions.
+
+**Techniques Used**
+
+* Linked List Traversal
+* Circular Linked List Concept
+* Pointer Manipulation
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 2. Copy List with Random Pointer
+
+**Problem:**
+Create a deep copy of a linked list where each node contains both next and random pointers.
+
+**Techniques Used**
+
+* Deep Copy
+* Node Interleaving Technique
+* Pointer Manipulation
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 3. 3Sum
+
+**Problem:**
+Find all unique triplets in an array whose sum equals zero.
+
+**Techniques Used**
+
+* Sorting
+* Two Pointer Technique
+* Duplicate Handling
+
+**Complexity**
+
+* Time: O(N²)
+* Space: O(1) (excluding output list)
+
+---
+
 # Key Learnings ✨
 
 * Improved array and linked list problem-solving skills
@@ -766,6 +825,14 @@ Flatten a multi-level sorted linked list into a single sorted linked list.
 * Practiced recursive linked list flattening
 * Improved divide-and-conquer problem-solving skills
 * Strengthened advanced linked list manipulation techniques
+* Learned linked list rotation using circular list formation
+* Strengthened pointer manipulation and linked list restructuring
+* Practiced deep copying complex linked lists with random pointers
+* Learned node interleaving technique for O(1) space optimization
+* Improved understanding of deep copy vs shallow copy
+* Practiced sorting + two pointer approach for array problems
+* Learned duplicate handling techniques in 3Sum
+* Strengthened optimization from O(N³) brute force to O(N²)
 
 ---
 
