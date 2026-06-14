@@ -38,6 +38,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 11 | Linked List Part-II  | 3 Problems      |
 | Day 12 | Linked List Part-II  | 3 Problems      |
 | Day 13 | Linked List & Arrays | 3 Problems      |
+| Day 14 | Arrays               | 3 Problems      |
 
 ---
 
@@ -796,6 +797,64 @@ Find all unique triplets in an array whose sum equals zero.
 
 ---
 
+# Day 14 - Arrays
+
+## Problems Solved
+
+### 1. Trapping Rain Water
+
+**Problem:**
+Given an elevation map, calculate how much rainwater can be trapped after raining.
+
+**Techniques Used**
+
+* Two Pointer Technique
+* Prefix Maximum Concept
+* Space Optimization
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 2. Remove Duplicates from Sorted Array
+
+**Problem:**
+Remove duplicates from a sorted array in-place and return the number of unique elements.
+
+**Techniques Used**
+
+* Two Pointer Technique
+* In-place Modification
+* Array Traversal
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
+### 3. Maximum Consecutive Ones
+
+**Problem:**
+Find the maximum number of consecutive 1's present in a binary array.
+
+**Techniques Used**
+
+* Linear Traversal
+* Counter Tracking
+* Greedy Observation
+
+**Complexity**
+
+* Time: O(N)
+* Space: O(1)
+
+---
+
 # Key Learnings ✨
 
 * Improved array and linked list problem-solving skills
@@ -833,6 +892,15 @@ Find all unique triplets in an array whose sum equals zero.
 * Practiced sorting + two pointer approach for array problems
 * Learned duplicate handling techniques in 3Sum
 * Strengthened optimization from O(N³) brute force to O(N²)
+* Learned the Two Pointer technique for Trapping Rain Water
+* Improved understanding of prefix maximum and boundary calculations
+* Practiced space-optimized array processing
+* Strengthened in-place array modification techniques
+* Learned efficient duplicate removal from sorted arrays
+* Improved two pointer problem-solving skills
+* Practiced consecutive sequence tracking in arrays
+* Strengthened greedy observation techniques
+* Improved array traversal and counting strategies
 
 ---
 
