@@ -39,6 +39,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 12 | Linked List Part-II  | 3 Problems      |
 | Day 13 | Linked List & Arrays | 3 Problems      |
 | Day 14 | Arrays               | 3 Problems      |
+| Day 15 | Greedy Algorithm     | 4 Problems      |
 
 ---
 
@@ -855,6 +856,82 @@ Find the maximum number of consecutive 1's present in a binary array.
 
 ---
 
+# Day 15 - Greedy Algorithm
+
+## Problems Solved
+
+### 1. N Meetings in One Room
+
+**Problem:**
+Schedule the maximum number of meetings in a single room without overlapping.
+
+**Techniques Used**
+
+* Greedy Algorithm
+* Sorting by End Time
+* Interval Scheduling
+
+**Complexity**
+
+* Time: O(N log N)
+* Space: O(N)
+
+---
+
+### 2. Minimum Number of Platforms
+
+**Problem:**
+Find the minimum number of railway platforms required so that no train waits.
+
+**Techniques Used**
+
+* Sorting
+* Two Pointer Technique
+* Greedy Scheduling
+
+**Complexity**
+
+* Time: O(N log N)
+* Space: O(1)
+
+---
+
+### 3. Job Sequencing Problem
+
+**Problem:**
+Schedule jobs before their deadlines to maximize profit.
+
+**Techniques Used**
+
+* Greedy Algorithm
+* Sorting by Profit
+* Slot Allocation
+
+**Complexity**
+
+* Time: O(N²)
+* Space: O(N)
+
+---
+
+### 4. Fractional Knapsack
+
+**Problem:**
+Maximize the total value that can be carried in a knapsack by allowing fractions of items.
+
+**Techniques Used**
+
+* Greedy Algorithm
+* Value-to-Weight Ratio
+* Sorting
+
+**Complexity**
+
+* Time: O(N log N)
+* Space: O(N)
+
+---
+
 # Key Learnings ✨
 
 * Improved array and linked list problem-solving skills
@@ -901,6 +978,16 @@ Find the maximum number of consecutive 1's present in a binary array.
 * Practiced consecutive sequence tracking in arrays
 * Strengthened greedy observation techniques
 * Improved array traversal and counting strategies
+* Learned the fundamentals of Greedy Algorithms
+* Practiced interval scheduling using meeting room problems
+* Improved understanding of sorting-based optimization
+* Learned two pointer scheduling techniques for platform allocation
+* Practiced profit maximization using Job Sequencing
+* Understood deadline-based scheduling strategies
+* Learned value-to-weight ratio optimization in Fractional Knapsack
+* Strengthened decision-making using greedy choices
+* Improved optimization skills for real interview problems
+* Practiced identifying when Greedy solutions are applicable
 
 ---
 
