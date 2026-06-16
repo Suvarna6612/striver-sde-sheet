@@ -40,6 +40,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 13 | Linked List & Arrays | 3 Problems      |
 | Day 14 | Arrays               | 3 Problems      |
 | Day 15 | Greedy Algorithm     | 4 Problems      |
+| Day 16 | Greedy & Recursion   | 4 Problems      |
 
 ---
 
@@ -932,6 +933,83 @@ Maximize the total value that can be carried in a knapsack by allowing fractions
 
 ---
 
+# Day 16 - Greedy & Recursion
+
+## Problems Solved
+
+### 1. Minimum Coins
+
+**Problem:**
+Find the minimum number of coins required to make a given amount. Return -1 if it is not possible.
+
+**Techniques Used**
+
+* Dynamic Programming
+* Unbounded Knapsack Pattern
+* Bottom-Up Approach
+
+**Complexity**
+
+* Time: O(N × Amount)
+* Space: O(Amount)
+
+---
+
+### 2. Assign Cookies
+
+**Problem:**
+Assign cookies to children such that the maximum number of children are satisfied.
+
+**Techniques Used**
+
+* Greedy Algorithm
+* Sorting
+* Two Pointer Technique
+
+**Complexity**
+
+* Time: O(N log N + M log M)
+* Space: O(1)
+
+---
+
+### 3. Subset Sum Equals Target
+
+**Problem:**
+Determine whether there exists a subset whose sum equals the given target value.
+
+**Techniques Used**
+
+* Recursion
+* Backtracking
+* Pick / Not Pick Strategy
+
+**Complexity**
+
+* Time: O(2^N)
+* Space: O(N)
+
+---
+
+### 4. Subsets II
+
+**Problem:**
+Generate all unique subsets of an array that may contain duplicate elements.
+
+**Techniques Used**
+
+* Recursion
+* Backtracking
+* Duplicate Skipping
+* Sorting
+
+**Complexity**
+
+* Time: O(2^N)
+* Space: O(N)
+
+---
+
 # Key Learnings ✨
 
 * Improved array and linked list problem-solving skills
@@ -988,6 +1066,16 @@ Maximize the total value that can be carried in a knapsack by allowing fractions
 * Strengthened decision-making using greedy choices
 * Improved optimization skills for real interview problems
 * Practiced identifying when Greedy solutions are applicable
+* Learned the difference between Greedy and Dynamic Programming approaches
+* Practiced the Coin Change problem using DP optimization
+* Strengthened understanding of Unbounded Knapsack patterns
+* Practiced Greedy matching using the Assign Cookies problem
+* Improved sorting and two-pointer problem-solving skills
+* Learned recursion using Pick / Not Pick decision trees
+* Practiced backtracking for subset generation problems
+* Understood duplicate handling in recursive subset generation
+* Improved recursive thinking and state-space exploration
+* Strengthened problem-solving skills for Greedy and Recursion topics
 
 ---
 
