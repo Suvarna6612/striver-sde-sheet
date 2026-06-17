@@ -41,6 +41,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 14 | Arrays               | 3 Problems      |
 | Day 15 | Greedy Algorithm     | 4 Problems      |
 | Day 16 | Greedy & Recursion   | 4 Problems      |
+| Day 17 | Recursion            | 4 Problems      |
 
 ---
 
@@ -1010,6 +1011,83 @@ Generate all unique subsets of an array that may contain duplicate elements.
 
 ---
 
+# Day 17 - Recursion & Backtracking
+
+## Problems Solved
+
+### 1. Combination Sum
+
+**Problem:**
+Find all unique combinations of numbers that sum up to the target. A number can be chosen multiple times.
+
+**Techniques Used**
+
+* Recursion
+* Backtracking
+* Pick / Not Pick Strategy
+
+**Complexity**
+
+* Time: O(2^N)
+* Space: O(N)
+
+---
+
+### 2. Combination Sum II
+
+**Problem:**
+Find all unique combinations that sum up to the target where each number can be used only once.
+
+**Techniques Used**
+
+* Recursion
+* Backtracking
+* Sorting
+* Duplicate Skipping
+
+**Complexity**
+
+* Time: O(2^N)
+* Space: O(N)
+
+---
+
+### 3. Palindrome Partitioning
+
+**Problem:**
+Partition a string such that every substring in the partition is a palindrome.
+
+**Techniques Used**
+
+* Recursion
+* Backtracking
+* Palindrome Checking
+
+**Complexity**
+
+* Time: O(N × 2^N)
+* Space: O(N)
+
+---
+
+### 4. Permutation Sequence
+
+**Problem:**
+Find the kth permutation sequence of numbers from 1 to n.
+
+**Techniques Used**
+
+* Factorial Number System
+* Mathematical Optimization
+* Recursion Concept
+
+**Complexity**
+
+* Time: O(N²)
+* Space: O(N)
+
+---
+
 # Key Learnings ✨
 
 * Improved array and linked list problem-solving skills
@@ -1076,6 +1154,16 @@ Generate all unique subsets of an array that may contain duplicate elements.
 * Understood duplicate handling in recursive subset generation
 * Improved recursive thinking and state-space exploration
 * Strengthened problem-solving skills for Greedy and Recursion topics
+* Strengthened recursion and backtracking fundamentals
+* Practiced Pick / Not Pick recursion patterns
+* Learned how to generate combinations using backtracking
+* Improved duplicate handling in recursive search spaces
+* Practiced palindrome partitioning using recursion and pruning
+* Learned efficient kth permutation generation using factorial mathematics
+* Improved understanding of state-space tree exploration
+* Strengthened recursive problem-solving and decision making
+* Practiced optimization techniques for recursive algorithms
+* Gained confidence solving medium and hard backtracking problems
 
 ---
 
