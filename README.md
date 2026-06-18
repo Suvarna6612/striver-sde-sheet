@@ -24,24 +24,25 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 # Progress Tracker 📚
 
 | Day    | Topic                | Problems Solved |
-| -------| -------------------- | --------------- |
-| Day 1  | Arrays               | 3 Problems      |
-| Day 2  | Arrays               | 3 Problems      |
-| Day 3  | Arrays Part-II       | 3 Problems      |
-| Day 4  | Arrays Part-III      | 3 Problems      |
-| Day 5  | Arrays Part-III      | 3 Problems      |
-| Day 6  | Arrays Part-III      | 3 Problems      |
-| Day 7  | Arrays Part-IV       | 3 Problems      |
-| Day 8  | Arrays Part-IV       | 3 Problems      |
-| Day 9  | Linked List          | 3 Problems      |
-| Day 10 | Linked List          | 3 Problems      |
-| Day 11 | Linked List Part-II  | 3 Problems      |
-| Day 12 | Linked List Part-II  | 3 Problems      |
-| Day 13 | Linked List & Arrays | 3 Problems      |
-| Day 14 | Arrays               | 3 Problems      |
-| Day 15 | Greedy Algorithm     | 4 Problems      |
-| Day 16 | Greedy & Recursion   | 4 Problems      |
-| Day 17 | Recursion            | 4 Problems      |
+| -------| ------------------------ | ------------ |
+| Day 1  | Arrays                   | 3 Problems   |
+| Day 2  | Arrays                   | 3 Problems   |
+| Day 3  | Arrays Part-II           | 3 Problems   |
+| Day 4  | Arrays Part-III          | 3 Problems   |
+| Day 5  | Arrays Part-III          | 3 Problems   |
+| Day 6  | Arrays Part-III          | 3 Problems   |
+| Day 7  | Arrays Part-IV           | 3 Problems   |
+| Day 8  | Arrays Part-IV           | 3 Problems   |
+| Day 9  | Linked List              | 3 Problems   |
+| Day 10 | Linked List              | 3 Problems   |
+| Day 11 | Linked List Part-II      | 3 Problems   |
+| Day 12 | Linked List Part-II      | 3 Problems   |
+| Day 13 | Linked List & Arrays     | 3 Problems   |
+| Day 14 | Arrays                   | 3 Problems   |
+| Day 15 | Greedy Algorithm         | 4 Problems   |
+| Day 16 | Greedy & Recursion       | 4 Problems   |
+| Day 17 | Recursion                | 4 Problems   |
+| Day 18 | Recursion & Backtracking | 3 Problems   |
 
 ---
 
@@ -1088,6 +1089,64 @@ Find the kth permutation sequence of numbers from 1 to n.
 
 ---
 
+# Day 18 - Recursion & Backtracking
+
+## Problems Solved
+
+### 1. Permutations
+
+**Problem:**
+Generate all possible permutations of the given array.
+
+**Techniques Used**
+
+* Recursion
+* Backtracking
+* Swapping Technique
+
+**Complexity**
+
+* Time: O(N! × N)
+* Space: O(N)
+
+---
+
+### 2. N-Queens
+
+**Problem:**
+Place N queens on an N × N chessboard such that no two queens attack each other.
+
+**Techniques Used**
+
+* Backtracking
+* Recursion
+* Column & Diagonal Checking
+
+**Complexity**
+
+* Time: O(N!)
+* Space: O(N²)
+
+---
+
+### 3. Sudoku Solver
+
+**Problem:**
+Fill the empty cells of a Sudoku board while satisfying all Sudoku rules.
+
+**Techniques Used**
+
+* Backtracking
+* Recursion
+* Constraint Validation
+
+**Complexity**
+
+* Time: O(9^(N×N)) (worst case)
+* Space: O(N²)
+
+---
+
 # Key Learnings ✨
 
 * Improved array and linked list problem-solving skills
@@ -1164,6 +1223,16 @@ Find the kth permutation sequence of numbers from 1 to n.
 * Strengthened recursive problem-solving and decision making
 * Practiced optimization techniques for recursive algorithms
 * Gained confidence solving medium and hard backtracking problems
+* Strengthened understanding of Backtracking algorithms
+* Learned permutation generation using swapping technique
+* Practiced recursive state-space exploration
+* Understood how backtracking restores previous states
+* Learned constraint-based search through the N-Queens problem
+* Improved diagonal and column conflict detection techniques
+* Practiced solving hard recursive search problems
+* Learned Sudoku solving using recursion and constraint validation
+* Strengthened decision tree visualization skills
+* Improved confidence solving advanced backtracking problems
 
 ---
 
