@@ -39,39 +39,41 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 16 | Greedy & Recursion         | 4        |
 | Day 17 | Backtracking               | 4        |
 | Day 18 | Recursion & Backtracking   | 3        |
+| Day 19 | Recursion & Backtracking   | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: **18 / 45**
-* ✅ Problems Solved: **60**
-* ✅ Language Used: **Java**
+* ✅ Days Completed: 19 / 45
+* ✅ Problems Solved: 63
+* ✅ Language Used: Java
 
 ---
 
 ## Learning Journey 🚀
 
-| Day    | Key Problems                                                                       | What I Learned                                      |
-| ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Day 1  | Set Matrix Zeroes, Pascal's Triangle, Next Permutation                             | Matrix manipulation and array transformations       |
-| Day 2  | Stock Buy & Sell, Kadane's Algorithm, Sort Colors                                  | Greedy thinking and optimal subarray techniques     |
-| Day 3  | Rotate Matrix, Merge Intervals, Merge Arrays                                       | Matrix operations and interval handling             |
-| Day 4  | Find Duplicate, Missing Number, Count Inversions                                   | Floyd's Cycle Detection and Merge Sort applications |
-| Day 5  | Search Matrix, Pow(x,n), Majority Element                                          | Binary Search and mathematical optimization         |
-| Day 6  | Majority Element II, Unique Paths, Reverse Pairs                                   | Voting algorithms and combinatorial thinking        |
-| Day 7  | Two Sum, 4Sum, Longest Consecutive Sequence                                        | Hashing and sequence optimization                   |
-| Day 8  | Longest Subarray Sum K, XOR K, Longest Substring                                   | Prefix sums and sliding window techniques           |
-| Day 9  | Reverse List, Middle Node, Merge Lists                                             | Linked List fundamentals                            |
-| Day 10 | Remove Nth Node, Add Two Numbers, Delete Node                                      | Advanced pointer manipulation                       |
-| Day 11 | Intersection, Cycle Detection, Reverse K Group                                     | Fast & Slow Pointer techniques                      |
-| Day 12 | Palindrome List, Cycle II, Flatten List                                            | Linked List optimization and recursion              |
-| Day 13 | Rotate List, Copy Random List, 3Sum                                                | Deep copying and two-pointer techniques             |
-| Day 14 | Trapping Rain Water, Remove Duplicates, Max Ones                                   | Two pointers and array optimization                 |
-| Day 15 | Meetings, Platforms, Job Sequencing, Knapsack                                      | Greedy algorithms and scheduling problems           |
-| Day 16 | Minimum Coins, Assign Cookies, Subset Sum, Subsets II                              | Greedy vs Recursion approaches                      |
-| Day 17 | Combination Sum, Combination Sum II, Palindrome Partitioning, Permutation Sequence | Backtracking and recursive search                   |
-| Day 18 | Permutations, N-Queens, Sudoku Solver                                              | Advanced backtracking and constraint solving        |
+| Day    | Key Problems                                                                       | What I Learned                                                  |
+| ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Day 1  | Set Matrix Zeroes, Pascal's Triangle, Next Permutation                             | Matrix manipulation and array transformations                   |
+| Day 2  | Stock Buy & Sell, Kadane's Algorithm, Sort Colors                                  | Greedy thinking and optimal subarray techniques                 |
+| Day 3  | Rotate Matrix, Merge Intervals, Merge Arrays                                       | Matrix operations and interval handling                         |
+| Day 4  | Find Duplicate, Missing Number, Count Inversions                                   | Floyd's Cycle Detection and Merge Sort applications             |
+| Day 5  | Search Matrix, Pow(x,n), Majority Element                                          | Binary Search and mathematical optimization                     |
+| Day 6  | Majority Element II, Unique Paths, Reverse Pairs                                   | Voting algorithms and combinatorial thinking                    |
+| Day 7  | Two Sum, 4Sum, Longest Consecutive Sequence                                        | Hashing and sequence optimization                               |
+| Day 8  | Longest Subarray Sum K, XOR K, Longest Substring                                   | Prefix sums and sliding window techniques                       |
+| Day 9  | Reverse List, Middle Node, Merge Lists                                             | Linked List fundamentals                                        |
+| Day 10 | Remove Nth Node, Add Two Numbers, Delete Node                                      | Advanced pointer manipulation                                   |
+| Day 11 | Intersection, Cycle Detection, Reverse K Group                                     | Fast & Slow Pointer techniques                                  |
+| Day 12 | Palindrome List, Cycle II, Flatten List                                            | Linked List optimization and recursion                          |
+| Day 13 | Rotate List, Copy Random List, 3Sum                                                | Deep copying and two-pointer techniques                         |
+| Day 14 | Trapping Rain Water, Remove Duplicates, Max Ones                                   | Two pointers and array optimization                             |
+| Day 15 | Meetings, Platforms, Job Sequencing, Knapsack                                      | Greedy algorithms and scheduling problems                       |
+| Day 16 | Minimum Coins, Assign Cookies, Subset Sum, Subsets II                              | Greedy vs Recursion approaches                                  |
+| Day 17 | Combination Sum, Combination Sum II, Palindrome Partitioning, Permutation Sequence | Backtracking and recursive search                               |
+| Day 18 | Permutations, N-Queens, Sudoku Solver                                              | Advanced backtracking and constraint solving                    |
+| Day 19 | M Coloring Problem, Rat in a Maze, Word Break                                      | Graph coloring, path finding, and recursive string partitioning |
 
 ---
 
@@ -112,9 +114,9 @@ Backtracking/
 
 ## Challenge Status 🔥
 
-✅ 18 Days Completed
+✅ 19 Days Completed
 
-✅ 60 Problems Solved
+✅ 63 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet
 
