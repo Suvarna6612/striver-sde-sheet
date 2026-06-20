@@ -40,13 +40,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 17 | Backtracking               | 4        |
 | Day 18 | Recursion & Backtracking   | 3        |
 | Day 19 | Recursion & Backtracking   | 3        |
+| Day 20 | Binary Search              | 4        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 19 / 45
-* ✅ Problems Solved: 63
+* ✅ Days Completed: 20 / 45
+* ✅ Problems Solved: 67
 * ✅ Language Used: Java
 
 ---
@@ -74,6 +75,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 17 | Combination Sum, Combination Sum II, Palindrome Partitioning, Permutation Sequence | Backtracking and recursive search                               |
 | Day 18 | Permutations, N-Queens, Sudoku Solver                                              | Advanced backtracking and constraint solving                    |
 | Day 19 | M Coloring Problem, Rat in a Maze, Word Break                                      | Graph coloring, path finding, and recursive string partitioning |
+| Day 20 | Nth Root of a Number, Matrix Median, Single Element in Sorted Array, Search in Rotated Sorted Array | Binary Search on Answers, Median Search, and Rotated Array Search |
 
 ---
 
@@ -88,6 +90,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Greedy Algorithms
 * Recursion
 * Backtracking
+* Binary Search
 * Mathematical Optimization
 
 ---
@@ -100,6 +103,7 @@ LinkedList/
 Greedy/
 Recursion/
 Backtracking/
+BinarySearch/
 ```
 
 ---
@@ -114,9 +118,9 @@ Backtracking/
 
 ## Challenge Status 🔥
 
-✅ 19 Days Completed
+✅ 20 Days Completed
 
-✅ 63 Problems Solved
+✅ 67 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet
 
