@@ -48,7 +48,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 ## Current Progress 📈
 
 * ✅ Days Completed: 21 / 45
-* ✅ Problems Solved: 71
+* ✅ Problems Solved: 68
 * ✅ Language Used: Java
 
 ---
@@ -122,7 +122,7 @@ BinarySearch/
 
 ✅ 21 Days Completed
 
-✅ 71 Problems Solved
+✅ 68 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet
 
