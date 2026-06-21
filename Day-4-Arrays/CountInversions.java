@@ -1,4 +1,7 @@
 
+import java.util.ArrayList;
+
+
 class Solution {
 
     public long numberOfInversions(int[] nums) {
