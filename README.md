@@ -41,13 +41,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 18 | Recursion & Backtracking   | 3        |
 | Day 19 | Recursion & Backtracking   | 3        |
 | Day 20 | Binary Search              | 4        |
+| Day 21 | Binary Search              | 4        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 20 / 45
-* ✅ Problems Solved: 67
+* ✅ Days Completed: 21 / 45
+* ✅ Problems Solved: 71
 * ✅ Language Used: Java
 
 ---
@@ -76,6 +77,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 18 | Permutations, N-Queens, Sudoku Solver                                              | Advanced backtracking and constraint solving                    |
 | Day 19 | M Coloring Problem, Rat in a Maze, Word Break                                      | Graph coloring, path finding, and recursive string partitioning |
 | Day 20 | Nth Root of a Number, Matrix Median, Single Element in Sorted Array, Search in Rotated Sorted Array | Binary Search on Answers, Median Search, and Rotated Array Search |
+| Day 21 | Aggressive Cows, Book Allocation Problem, Kth Element of Two Sorted Arrays, Median of Two Sorted Arrays | Binary Search on Answer and Partition-based Binary Search |
 
 ---
 
@@ -118,9 +120,9 @@ BinarySearch/
 
 ## Challenge Status 🔥
 
-✅ 20 Days Completed
+✅ 21 Days Completed
 
-✅ 67 Problems Solved
+✅ 71 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet
 
