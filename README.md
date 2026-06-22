@@ -42,13 +42,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 19 | Recursion & Backtracking   | 3        |
 | Day 20 | Binary Search              | 4        |
 | Day 21 | Binary Search              | 4        |
+| Day 22 | Heaps                      | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 21 / 45
-* ✅ Problems Solved: 68
+* ✅ Days Completed: 22 / 45
+* ✅ Problems Solved: 71
 * ✅ Language Used: Java
 
 ---
@@ -78,6 +79,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 19 | M Coloring Problem, Rat in a Maze, Word Break                                      | Graph coloring, path finding, and recursive string partitioning |
 | Day 20 | Nth Root of a Number, Matrix Median, Single Element in Sorted Array, Search in Rotated Sorted Array | Binary Search on Answers, Median Search, and Rotated Array Search |
 | Day 21 | Aggressive Cows, Book Allocation Problem, Kth Element of Two Sorted Arrays, Median of Two Sorted Arrays | Binary Search on Answer and Partition-based Binary Search |
+| Day 22 | Implement Max Heap, K-th Largest Element in an Array, Maximum Sum Combination | Heap implementation, Priority Queue, and Top-K optimization techniques |
 
 ---
 
@@ -93,6 +95,8 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Recursion
 * Backtracking
 * Binary Search
+* Heaps
+* Priority Queue
 * Mathematical Optimization
 
 ---
@@ -106,6 +110,7 @@ Greedy/
 Recursion/
 Backtracking/
 BinarySearch/
+Heaps/
 ```
 
 ---
@@ -120,9 +125,9 @@ BinarySearch/
 
 ## Challenge Status 🔥
 
-✅ 21 Days Completed
+✅ 22 Days Completed
 
-✅ 68 Problems Solved
+✅ 71 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet
 
