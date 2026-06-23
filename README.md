@@ -43,13 +43,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 20 | Binary Search              | 4        |
 | Day 21 | Binary Search              | 4        |
 | Day 22 | Heaps                      | 3        |
+| Day 23 | Heaps                      | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 22 / 45
-* ✅ Problems Solved: 71
+* ✅ Days Completed: 23 / 45
+* ✅ Problems Solved: 74
 * ✅ Language Used: Java
 
 ---
@@ -80,7 +81,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 20 | Nth Root of a Number, Matrix Median, Single Element in Sorted Array, Search in Rotated Sorted Array | Binary Search on Answers, Median Search, and Rotated Array Search |
 | Day 21 | Aggressive Cows, Book Allocation Problem, Kth Element of Two Sorted Arrays, Median of Two Sorted Arrays | Binary Search on Answer and Partition-based Binary Search |
 | Day 22 | Implement Max Heap, K-th Largest Element in an Array, Maximum Sum Combination | Heap implementation, Priority Queue, and Top-K optimization techniques |
-
+| Day 23 | Merge K Sorted Arrays, Find Median from Data Stream, Top K Frequent Elements | Advanced Heap operations, Two-Heaps technique, and Frequency-based Priority Queue problems |
 ---
 
 ## Topics Covered 🧠
@@ -97,6 +98,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Binary Search
 * Heaps
 * Priority Queue
+* Advanced Heaps
+* Two Heaps Technique
+* Top-K Problems
 * Mathematical Optimization
 
 ---
@@ -125,9 +129,9 @@ Heaps/
 
 ## Challenge Status 🔥
 
-✅ 22 Days Completed
+✅ 23 Days Completed
 
-✅ 71 Problems Solved
+✅ 74 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet
 
