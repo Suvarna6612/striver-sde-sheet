@@ -1,10 +1,10 @@
 import java.util.*;
 
-class MyStack {
+class StackUsingQueue {
 
     Queue<Integer> queue;
 
-    public MyStack() {
+    public StackUsingQueue() {
         queue = new LinkedList<>();
     }
 
