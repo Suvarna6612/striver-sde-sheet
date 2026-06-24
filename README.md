@@ -44,13 +44,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 21 | Binary Search              | 4        |
 | Day 22 | Heaps                      | 3        |
 | Day 23 | Heaps                      | 3        |
+| Day 24 | Stacks & Queues            | 4        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 23 / 45
-* ✅ Problems Solved: 74
+* ✅ Days Completed: 24 / 45
+* ✅ Problems Solved: 78
 * ✅ Language Used: Java
 
 ---
@@ -82,6 +83,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 21 | Aggressive Cows, Book Allocation Problem, Kth Element of Two Sorted Arrays, Median of Two Sorted Arrays | Binary Search on Answer and Partition-based Binary Search |
 | Day 22 | Implement Max Heap, K-th Largest Element in an Array, Maximum Sum Combination | Heap implementation, Priority Queue, and Top-K optimization techniques |
 | Day 23 | Merge K Sorted Arrays, Find Median from Data Stream, Top K Frequent Elements | Advanced Heap operations, Two-Heaps technique, and Frequency-based Priority Queue problems |
+| Day 24 | Implement Stack using Arrays, Implement Queue using Arrays, Implement Stack using Queue, Implement Queue using Stack | Stack implementation, Queue implementation, and understanding conversions between stacks and queues |
 ---
 
 ## Topics Covered 🧠
@@ -101,6 +103,8 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Advanced Heaps
 * Two Heaps Technique
 * Top-K Problems
+* Stacks
+* Queues
 * Mathematical Optimization
 
 ---
@@ -115,6 +119,8 @@ Recursion/
 Backtracking/
 BinarySearch/
 Heaps/
+Stacks/
+Queues/
 ```
 
 ---
@@ -129,9 +135,9 @@ Heaps/
 
 ## Challenge Status 🔥
 
-✅ 23 Days Completed
+✅ 24 Days Completed
 
-✅ 74 Problems Solved
+✅ 78 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet
 
