@@ -1,11 +1,11 @@
-class ArrayQueue {
+class QueueUsingArrays {
 
     int[] arr;
     int front;
     int rear;
     int size;
 
-    public ArrayQueue() {
+    public QueueUsingArrays() {
         size = 100001;
         arr = new int[size];
         front = 0;
