@@ -45,13 +45,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 22 | Heaps                      | 3        |
 | Day 23 | Heaps                      | 3        |
 | Day 24 | Stacks & Queues            | 4        |
+| Day 25 | Stacks & Queues            | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 24 / 45
-* ✅ Problems Solved: 78
+* ✅ Days Completed: 25/ 45
+* ✅ Problems Solved: 81
 * ✅ Language Used: Java
 
 ---
@@ -84,6 +85,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 22 | Implement Max Heap, K-th Largest Element in an Array, Maximum Sum Combination | Heap implementation, Priority Queue, and Top-K optimization techniques |
 | Day 23 | Merge K Sorted Arrays, Find Median from Data Stream, Top K Frequent Elements | Advanced Heap operations, Two-Heaps technique, and Frequency-based Priority Queue problems |
 | Day 24 | Implement Stack using Arrays, Implement Queue using Arrays, Implement Stack using Queue, Implement Queue using Stack | Stack implementation, Queue implementation, and understanding conversions between stacks and queues |
+| Day 25 | Balanced Parenthesis, Next Greater Element, Sort a Stack | Monotonic Stack, Parentheses Validation, and Recursive Stack Manipulation |
 ---
 
 ## Topics Covered 🧠
@@ -105,6 +107,9 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Top-K Problems
 * Stacks
 * Queues
+* Monotonic Stack
+* Recursion on Stack
+* Parentheses Matching
 * Mathematical Optimization
 
 ---
@@ -135,9 +140,9 @@ Queues/
 
 ## Challenge Status 🔥
 
-✅ 24 Days Completed
+✅ 25 Days Completed
 
-✅ 78 Problems Solved
+✅ 81 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet
 
