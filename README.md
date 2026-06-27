@@ -47,47 +47,49 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 24     | Stacks & Queues             | 4        |
 | Day 25     | Stacks & Queues             | 3        |
 | Day 26     | Stacks & Queues Part-II     | 3        |
+| Day 27     | Stacks & Queues Part-II     | 4        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: **26 / 45**
-* ✅ Problems Solved: **84**
+* ✅ Days Completed: 27 / 45
+* ✅ Problems Solved: 88
 * ✅ Language Used: Java
 
 ---
 
 ## Learning Journey 🚀
 
-| Day        | Key Problems                                                                                                         | What I Learned                                                                                  |
-| ---------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Day 1      | Set Matrix Zeroes, Pascal's Triangle, Next Permutation                                                               | Matrix manipulation and array transformations                                                   |
-| Day 2      | Stock Buy & Sell, Kadane's Algorithm, Sort Colors                                                                    | Greedy thinking and optimal subarray techniques                                                 |
-| Day 3      | Rotate Matrix, Merge Intervals, Merge Arrays                                                                         | Matrix operations and interval handling                                                         |
-| Day 4      | Find Duplicate, Missing Number, Count Inversions                                                                     | Floyd's Cycle Detection and Merge Sort applications                                             |
-| Day 5      | Search Matrix, Pow(x,n), Majority Element                                                                            | Binary Search and mathematical optimization                                                     |
-| Day 6      | Majority Element II, Unique Paths, Reverse Pairs                                                                     | Voting algorithms and combinatorial thinking                                                    |
-| Day 7      | Two Sum, 4Sum, Longest Consecutive Sequence                                                                          | Hashing and sequence optimization                                                               |
-| Day 8      | Longest Subarray Sum K, XOR K, Longest Substring                                                                     | Prefix sums and sliding window techniques                                                       |
-| Day 9      | Reverse List, Middle Node, Merge Lists                                                                               | Linked List fundamentals                                                                        |
-| Day 10     | Remove Nth Node, Add Two Numbers, Delete Node                                                                        | Advanced pointer manipulation                                                                   |
-| Day 11     | Intersection, Cycle Detection, Reverse K Group                                                                       | Fast & Slow Pointer techniques                                                                  |
-| Day 12     | Palindrome List, Cycle II, Flatten List                                                                              | Linked List optimization and recursion                                                          |
-| Day 13     | Rotate List, Copy Random List, 3Sum                                                                                  | Deep copying and two-pointer techniques                                                         |
-| Day 14     | Trapping Rain Water, Remove Duplicates, Max Ones                                                                     | Two pointers and array optimization                                                             |
-| Day 15     | Meetings, Platforms, Job Sequencing, Knapsack                                                                        | Greedy algorithms and scheduling problems                                                       |
-| Day 16     | Minimum Coins, Assign Cookies, Subset Sum, Subsets II                                                                | Greedy vs Recursion approaches                                                                  |
-| Day 17     | Combination Sum, Combination Sum II, Palindrome Partitioning, Permutation Sequence                                   | Backtracking and recursive search                                                               |
-| Day 18     | Permutations, N-Queens, Sudoku Solver                                                                                | Advanced backtracking and constraint solving                                                    |
-| Day 19     | M Coloring Problem, Rat in a Maze, Word Break                                                                        | Graph coloring, path finding, and recursive string partitioning                                 |
-| Day 20     | Nth Root of a Number, Matrix Median, Single Element in Sorted Array, Search in Rotated Sorted Array                  | Binary Search on Answers, Median Search, and Rotated Array Search                               |
-| Day 21     | Aggressive Cows, Book Allocation Problem, Kth Element of Two Sorted Arrays, Median of Two Sorted Arrays              | Binary Search on Answer and Partition-based Binary Search                                       |
-| Day 22     | Implement Max Heap, K-th Largest Element in an Array, Maximum Sum Combination                                        | Heap implementation, Priority Queue, and Top-K optimization techniques                          |
-| Day 23     | Merge K Sorted Arrays, Find Median from Data Stream, Top K Frequent Elements                                         | Advanced Heap operations, Two-Heaps technique, and Frequency-based Priority Queue problems      |
-| Day 24     | Implement Stack using Arrays, Implement Queue using Arrays, Implement Stack using Queue, Implement Queue using Stack | Stack implementation, Queue implementation, and conversions between stacks and queues           |
-| Day 25     | Balanced Parenthesis, Next Greater Element, Sort a Stack                                                             | Monotonic Stack, Parentheses Validation, and Recursive Stack Manipulation                       |
-| Day 26     |   Next Smaller Element, LRU Cache, LFU Cache                                                                         | Monotonic Stack, Cache Design, HashMap + Doubly Linked List, and O(1) Data Structure Design |
+| Day        | Key Problems                                                                                                         | What I Learned                                                                              |
+| ---------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Day 1      | Set Matrix Zeroes, Pascal's Triangle, Next Permutation                                                               | Matrix manipulation and array transformations                                               |
+| Day 2      | Stock Buy & Sell, Kadane's Algorithm, Sort Colors                                                                    | Greedy thinking and optimal subarray techniques                                             |
+| Day 3      | Rotate Matrix, Merge Intervals, Merge Arrays                                                                         | Matrix operations and interval handling                                                     |
+| Day 4      | Find Duplicate, Missing Number, Count Inversions                                                                     | Floyd's Cycle Detection and Merge Sort applications                                         |
+| Day 5      | Search Matrix, Pow(x,n), Majority Element                                                                            | Binary Search and mathematical optimization                                                 |
+| Day 6      | Majority Element II, Unique Paths, Reverse Pairs                                                                     | Voting algorithms and combinatorial thinking                                                |
+| Day 7      | Two Sum, 4Sum, Longest Consecutive Sequence                                                                          | Hashing and sequence optimization                                                           |
+| Day 8      | Longest Subarray Sum K, XOR K, Longest Substring                                                                     | Prefix sums and sliding window techniques                                                   |
+| Day 9      | Reverse List, Middle Node, Merge Lists                                                                               | Linked List fundamentals                                                                    |
+| Day 10     | Remove Nth Node, Add Two Numbers, Delete Node                                                                        | Advanced pointer manipulation                                                               |
+| Day 11     | Intersection, Cycle Detection, Reverse K Group                                                                       | Fast & Slow Pointer techniques                                                              |
+| Day 12     | Palindrome List, Cycle II, Flatten List                                                                              | Linked List optimization and recursion                                                      |
+| Day 13     | Rotate List, Copy Random List, 3Sum                                                                                  | Deep copying and two-pointer techniques                                                     |
+| Day 14     | Trapping Rain Water, Remove Duplicates, Max Ones                                                                     | Two pointers and array optimization                                                         |
+| Day 15     | Meetings, Platforms, Job Sequencing, Knapsack                                                                        | Greedy algorithms and scheduling problems                                                   |
+| Day 16     | Minimum Coins, Assign Cookies, Subset Sum, Subsets II                                                                | Greedy vs Recursion approaches                                                              |
+| Day 17     | Combination Sum, Combination Sum II, Palindrome Partitioning, Permutation Sequence                                   | Backtracking and recursive search                                                           |
+| Day 18     | Permutations, N-Queens, Sudoku Solver                                                                                | Advanced backtracking and constraint solving                                                |
+| Day 19     | M Coloring Problem, Rat in a Maze, Word Break                                                                        | Graph coloring, path finding, and recursive string partitioning                             |
+| Day 20     | Nth Root of a Number, Matrix Median, Single Element in Sorted Array, Search in Rotated Sorted Array                  | Binary Search on Answers, Median Search, and Rotated Array Search                           |
+| Day 21     | Aggressive Cows, Book Allocation Problem, Kth Element of Two Sorted Arrays, Median of Two Sorted Arrays              | Binary Search on Answer and Partition-based Binary Search                                   |
+| Day 22     | Implement Max Heap, K-th Largest Element in an Array, Maximum Sum Combination                                        | Heap implementation, Priority Queue, and Top-K optimization techniques                      |
+| Day 23     | Merge K Sorted Arrays, Find Median from Data Stream, Top K Frequent Elements                                         | Advanced Heap operations, Two-Heaps technique, and Frequency-based Priority Queue problems  |
+| Day 24     | Implement Stack using Arrays, Implement Queue using Arrays, Implement Stack using Queue, Implement Queue using Stack | Stack implementation, Queue implementation, and conversions between stacks and queues       |
+| Day 25     | Balanced Parenthesis, Next Greater Element, Sort a Stack                                                             | Monotonic Stack, Parentheses Validation, and Recursive Stack Manipulation                   |
+| Day 26     | Next Smaller Element, LRU Cache, LFU Cache                                                                           | Monotonic Stack, Cache Design, HashMap + Doubly Linked List, and O(1) Data Structure Design |
+| Day 27 | Largest Rectangle in Histogram, Sliding Window Maximum, Min Stack, Rotten Oranges                                        | Monotonic Stack, Deque, Multi-Source BFS, and Constant-Time Stack Design                |
 
 ---
 
@@ -111,6 +113,10 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Stacks
 * Queues
 * Monotonic Stack
+* Deque
+* Sliding Window
+* Multi-Source BFS
+* Grid Traversal
 * Recursion on Stack
 * Parentheses Matching
 * LRU Cache
@@ -139,16 +145,16 @@ Queues/
 ## Profiles 🌐
 
 * LeetCode: https://leetcode.com/u/Suvarna_300/
-* GitHub: https://github.com/Suvarna6612
+* GitHub: https://github.com/Suvarna6612/striver-sde-sheet
 * LinkedIn: https://www.linkedin.com/in/suvarna-chandarlapati-6a90a2317
 
 ---
 
 ## Challenge Status 🔥
 
-✅ 26 Days Completed
+✅ 27 Days Completed
 
-✅ 84 Problems Solved
+✅ 88 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
