@@ -49,13 +49,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 26     | Stacks & Queues Part-II     | 3        |
 | Day 27     | Stacks & Queues Part-II     | 4        |
 | Day 28     | Stacks & Queues Part-II     | 3        |
+| Day 29     | Strings                     | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 28 / 45
-* ✅ Problems Solved: 91
+* ✅ Days Completed: 29 / 45
+* ✅ Problems Solved: 94
 * ✅ Language Used: Java
 
 ---
@@ -92,6 +93,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 26     | Next Smaller Element, LRU Cache, LFU Cache                                                                           | Monotonic Stack, Cache Design, HashMap + Doubly Linked List, and O(1) Data Structure Design                     |
 | Day 27     | Largest Rectangle in Histogram, Sliding Window Maximum, Min Stack, Rotten Oranges                                    | Monotonic Stack, Deque, Multi-Source BFS, and Constant-Time Stack Design                                        |
 | Day 28     | Stock Span Problem, Maximum of Minimums for Every Window Size, Celebrity Problem                                     | Monotonic Stack, Previous & Next Smaller Elements, Window Optimization, and Candidate Elimination Technique |
+| Day 29 | Reverse Words in a String, Longest Palindromic Substring, Roman to Integer | String Manipulation, Expand Around Center, Hashing, Parsing, and Two-Pointer String Processing |
 
 ---
 
@@ -128,6 +130,12 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * LRU Cache
 * LFU Cache
 * Doubly Linked List
+* Strings
+* String Manipulation
+* Expand Around Center
+* Palindromic Strings
+* Roman Numerals
+* Parsing
 * Mathematical Optimization
 
 ---
@@ -144,6 +152,7 @@ BinarySearch/
 Heaps/
 Stacks/
 Queues/
+Strins/
 ```
 
 ---
@@ -158,9 +167,9 @@ Queues/
 
 ## Challenge Status 🔥
 
-✅ 28 Days Completed
+✅ 29 Days Completed
 
-✅ 91 Problems Solved
+✅ 94 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
