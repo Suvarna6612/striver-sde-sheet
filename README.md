@@ -50,13 +50,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 27     | Stacks & Queues Part-II     | 4        |
 | Day 28     | Stacks & Queues Part-II     | 3        |
 | Day 29     | Strings                     | 3        |
+| Day 30     | Strings                     | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 29 / 45
-* ✅ Problems Solved: 94
+* ✅ Days Completed: 30 / 45
+* ✅ Problems Solved: 97
 * ✅ Language Used: Java
 
 ---
@@ -94,6 +95,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 27     | Largest Rectangle in Histogram, Sliding Window Maximum, Min Stack, Rotten Oranges                                    | Monotonic Stack, Deque, Multi-Source BFS, and Constant-Time Stack Design                                        |
 | Day 28     | Stock Span Problem, Maximum of Minimums for Every Window Size, Celebrity Problem                                     | Monotonic Stack, Previous & Next Smaller Elements, Window Optimization, and Candidate Elimination Technique |
 | Day 29 | Reverse Words in a String, Longest Palindromic Substring, Roman to Integer | String Manipulation, Expand Around Center, Hashing, Parsing, and Two-Pointer String Processing |
+| Day 30 | String to Integer (ATOI), Longest Common Prefix, Rabin-Karp Algorithm | String Parsing, Prefix Matching, Rolling Hash, Pattern Matching, and Hash-Based Searching |
 
 ---
 
@@ -137,6 +139,11 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Roman Numerals
 * Parsing
 * Mathematical Optimization
+* Longest Common Prefix
+* Rolling Hash
+* Rabin-Karp Algorithm
+* Pattern Matching
+* Prefix Matching
 
 ---
 
@@ -152,7 +159,7 @@ BinarySearch/
 Heaps/
 Stacks/
 Queues/
-Strins/
+Strings/
 ```
 
 ---
@@ -167,9 +174,9 @@ Strins/
 
 ## Challenge Status 🔥
 
-✅ 29 Days Completed
+✅ 30 Days Completed
 
-✅ 94 Problems Solved
+✅ 97 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
