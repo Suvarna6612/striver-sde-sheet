@@ -51,13 +51,13 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 28     | Stacks & Queues Part-II     | 3        |
 | Day 29     | Strings                     | 3        |
 | Day 30     | Strings                     | 3        |
-
+| Day 31     | Strings Part-II             | 3        |
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 30 / 45
-* ✅ Problems Solved: 97
+* ✅ Days Completed: 31 / 45
+* ✅ Problems Solved: 100
 * ✅ Language Used: Java
 
 ---
@@ -74,7 +74,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 6      | Majority Element II, Unique Paths, Reverse Pairs                                                                     | Voting algorithms and combinatorial thinking                                                                    |
 | Day 7      | Two Sum, 4Sum, Longest Consecutive Sequence                                                                          | Hashing and sequence optimization                                                                               |
 | Day 8      | Longest Subarray Sum K, XOR K, Longest Substring                                                                     | Prefix sums and sliding window techniques                                                                       |
-| Day 9      | Reverse List, Middle Node, Merge Lists                                                                               | Linked List fundamentals                                                                                        |
+| Day 9      | Reverse List, Middle Node, Merge Lists                                                                               | Linked List fundamentals                                                                                               |
 | Day 10     | Remove Nth Node, Add Two Numbers, Delete Node                                                                        | Advanced pointer manipulation                                                                                   |
 | Day 11     | Intersection, Cycle Detection, Reverse K Group                                                                       | Fast & Slow Pointer techniques                                                                                  |
 | Day 12     | Palindrome List, Cycle II, Flatten List                                                                              | Linked List optimization and recursion                                                                          |
@@ -96,6 +96,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 28     | Stock Span Problem, Maximum of Minimums for Every Window Size, Celebrity Problem                                     | Monotonic Stack, Previous & Next Smaller Elements, Window Optimization, and Candidate Elimination Technique |
 | Day 29 | Reverse Words in a String, Longest Palindromic Substring, Roman to Integer | String Manipulation, Expand Around Center, Hashing, Parsing, and Two-Pointer String Processing |
 | Day 30 | String to Integer (ATOI), Longest Common Prefix, Rabin-Karp Algorithm | String Parsing, Prefix Matching, Rolling Hash, Pattern Matching, and Hash-Based Searching |
+| Day 31 | Longest Prefix Suffix (KMP), Find the Index of the First Occurrence in a String, Minimum Insertion Steps to Make a String Palindrome | KMP Algorithm, Longest Prefix Suffix (LPS), Pattern Matching, Dynamic Programming, Longest Palindromic Subsequence, and String Optimization |
 
 ---
 
@@ -144,6 +145,11 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Rabin-Karp Algorithm
 * Pattern Matching
 * Prefix Matching
+* KMP Algorithm
+* Longest Prefix Suffix (LPS)
+* Dynamic Programming
+* Longest Palindromic Subsequence (LPS)
+* String Pattern Matching
 
 ---
 
@@ -174,9 +180,9 @@ Strings/
 
 ## Challenge Status 🔥
 
-✅ 30 Days Completed
+✅ 31 Days Completed
 
-✅ 97 Problems Solved
+✅ 100 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
