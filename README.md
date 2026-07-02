@@ -52,12 +52,13 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 29     | Strings                     | 3        |
 | Day 30     | Strings                     | 3        |
 | Day 31     | Strings Part-II             | 3        |
+| Day 32     | Strings Part-II             | 3        |
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 31 / 45
-* ✅ Problems Solved: 100
+* ✅ Days Completed: 32 / 45
+* ✅ Problems Solved: 103
 * ✅ Language Used: Java
 
 ---
@@ -97,6 +98,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 29 | Reverse Words in a String, Longest Palindromic Substring, Roman to Integer | String Manipulation, Expand Around Center, Hashing, Parsing, and Two-Pointer String Processing |
 | Day 30 | String to Integer (ATOI), Longest Common Prefix, Rabin-Karp Algorithm | String Parsing, Prefix Matching, Rolling Hash, Pattern Matching, and Hash-Based Searching |
 | Day 31 | Longest Prefix Suffix (KMP), Find the Index of the First Occurrence in a String, Minimum Insertion Steps to Make a String Palindrome | KMP Algorithm, Longest Prefix Suffix (LPS), Pattern Matching, Dynamic Programming, Longest Palindromic Subsequence, and String Optimization |
+| Day 32 | Valid Anagram, Count and Say, Compare Version Numbers | Character Frequency Counting, Run-Length Encoding (RLE), Two-Pointer Parsing, String Simulation, and Version Comparison |
 
 ---
 
@@ -150,6 +152,12 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Dynamic Programming
 * Longest Palindromic Subsequence (LPS)
 * String Pattern Matching
+* Anagram Checking
+* Character Frequency
+* Run-Length Encoding (RLE)
+* String Simulation
+* Version Comparison
+* Two-Pointer Parsing
 
 ---
 
@@ -180,9 +188,9 @@ Strings/
 
 ## Challenge Status 🔥
 
-✅ 31 Days Completed
+✅ 32 Days Completed
 
-✅ 100 Problems Solved
+✅ 103 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
