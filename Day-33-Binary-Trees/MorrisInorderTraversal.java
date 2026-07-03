@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class MorrisInorderTraversal {
 
     public List<Integer> getInorder(TreeNode root) {
 
