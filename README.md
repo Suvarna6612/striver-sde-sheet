@@ -53,12 +53,13 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 30     | Strings                     | 3        |
 | Day 31     | Strings Part-II             | 3        |
 | Day 32     | Strings Part-II             | 3        |
+| Day 33     | Binary Trees                | 4        |
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 32 / 45
-* ✅ Problems Solved: 103
+* ✅ Days Completed: 33 / 45
+* ✅ Problems Solved: 107
 * ✅ Language Used: Java
 
 ---
@@ -99,6 +100,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 30 | String to Integer (ATOI), Longest Common Prefix, Rabin-Karp Algorithm | String Parsing, Prefix Matching, Rolling Hash, Pattern Matching, and Hash-Based Searching |
 | Day 31 | Longest Prefix Suffix (KMP), Find the Index of the First Occurrence in a String, Minimum Insertion Steps to Make a String Palindrome | KMP Algorithm, Longest Prefix Suffix (LPS), Pattern Matching, Dynamic Programming, Longest Palindromic Subsequence, and String Optimization |
 | Day 32 | Valid Anagram, Count and Say, Compare Version Numbers | Character Frequency Counting, Run-Length Encoding (RLE), Two-Pointer Parsing, String Simulation, and Version Comparison |
+| Day 33 | Binary Tree Inorder Traversal, Binary Tree Preorder Traversal, Binary Tree Postorder Traversal, Morris Inorder Traversal | Tree Traversals, Depth-First Search (DFS), Recursive Traversal, Morris Traversal, Threaded Binary Trees, and O(1) Space Traversal |
 
 ---
 
@@ -158,6 +160,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * String Simulation
 * Version Comparison
 * Two-Pointer Parsing
+* Binary Trees
+* Tree Traversal
+* Depth-First Search (DFS)
+* Inorder Traversal
+* Preorder Traversal
+* Postorder Traversal
+* Morris Traversal
+* Threaded Binary Trees
 
 ---
 
@@ -174,6 +184,7 @@ Heaps/
 Stacks/
 Queues/
 Strings/
+BinaryTrees/
 ```
 
 ---
@@ -188,9 +199,9 @@ Strings/
 
 ## Challenge Status 🔥
 
-✅ 32 Days Completed
+✅ 33 Days Completed
 
-✅ 103 Problems Solved
+✅ 107 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
