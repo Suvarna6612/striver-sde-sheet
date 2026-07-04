@@ -54,12 +54,13 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 31     | Strings Part-II             | 3        |
 | Day 32     | Strings Part-II             | 3        |
 | Day 33     | Binary Trees                | 4        |
+| Day 34     | Binary Trees                | 4        |
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 33 / 45
-* ✅ Problems Solved: 107
+* ✅ Days Completed: 34 / 45
+* ✅ Problems Solved: 111
 * ✅ Language Used: Java
 
 ---
@@ -101,6 +102,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 31 | Longest Prefix Suffix (KMP), Find the Index of the First Occurrence in a String, Minimum Insertion Steps to Make a String Palindrome | KMP Algorithm, Longest Prefix Suffix (LPS), Pattern Matching, Dynamic Programming, Longest Palindromic Subsequence, and String Optimization |
 | Day 32 | Valid Anagram, Count and Say, Compare Version Numbers | Character Frequency Counting, Run-Length Encoding (RLE), Two-Pointer Parsing, String Simulation, and Version Comparison |
 | Day 33 | Binary Tree Inorder Traversal, Binary Tree Preorder Traversal, Binary Tree Postorder Traversal, Morris Inorder Traversal | Tree Traversals, Depth-First Search (DFS), Recursive Traversal, Morris Traversal, Threaded Binary Trees, and O(1) Space Traversal |
+| Day 34 | Morris Preorder Traversal, Binary Tree Right Side View, Bottom View of Binary Tree, Top View of Binary Tree | Morris Traversal, Level Order Traversal (BFS), Horizontal Distance Mapping, Tree Views, Queue, TreeMap, Binary Tree Visualization |
 
 ---
 
@@ -168,6 +170,16 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Postorder Traversal
 * Morris Traversal
 * Threaded Binary Trees
+* Morris Preorder Traversal
+* Right View of Binary Tree
+* Bottom View of Binary Tree
+* Top View of Binary Tree
+* Breadth-First Search (BFS)
+* Level Order Traversal
+* Horizontal Distance (HD)
+* TreeMap
+* Queue
+* Binary Tree Views
 
 ---
 
@@ -199,9 +211,9 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 33 Days Completed
+✅ 34 Days Completed
 
-✅ 107 Problems Solved
+✅ 111 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
