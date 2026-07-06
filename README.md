@@ -56,12 +56,13 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 33     | Binary Trees                | 4        |
 | Day 34     | Binary Trees                | 4        |
 | Day 35     | Binary Trees                | 4        |
+| Day 36     | Binary Trees Part-II        | 4        |
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 35 / 45
-* ✅ Problems Solved: 115
+* ✅ Days Completed: 36 / 45
+* ✅ Problems Solved: 119
 * ✅ Language Used: Java
 
 ---
@@ -105,6 +106,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 33 | Binary Tree Inorder Traversal, Binary Tree Preorder Traversal, Binary Tree Postorder Traversal, Morris Inorder Traversal | Tree Traversals, Depth-First Search (DFS), Recursive Traversal, Morris Traversal, Threaded Binary Trees, and O(1) Space Traversal |
 | Day 34 | Morris Preorder Traversal, Binary Tree Right Side View, Bottom View of Binary Tree, Top View of Binary Tree | Morris Traversal, Level Order Traversal (BFS), Horizontal Distance Mapping, Tree Views, Queue, TreeMap, Binary Tree Visualization |
 | Day 35 | Preorder, Inorder & Postorder in One Traversal, Vertical Order Traversal, Root to Leaf Paths, Maximum Width of Binary Tree | Single Stack Traversal, Vertical Traversal using BFS + TreeMap + PriorityQueue, DFS Backtracking, Level Order Traversal with Indexed Positions, Queue, Binary Tree Views |
+| Day 36 | Level Order Traversal, Maximum Depth of Binary Tree, Diameter of Binary Tree, Balanced Binary Tree | Breadth-First Search (BFS), Queue-based Level Order Traversal, Recursive Tree Height, DFS, Tree Diameter using Height Calculation, Height-Balanced Trees, Bottom-Up Recursion, Tree Dynamic Programming |
 
 ---
 
@@ -189,6 +191,13 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * DFS Backtracking
 * Indexed BFS
 * Priority Queue
+* Maximum Depth of Binary Tree
+* Diameter of Binary Tree
+* Balanced Binary Tree
+* Height-Balanced Trees
+* Tree Height
+* Bottom-Up Recursion
+* Tree Dynamic Programming
 
 ---
 
@@ -220,9 +229,9 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 35 Days Completed
+✅ 36 Days Completed
 
-✅ 115 Problems Solved
+✅ 119 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
