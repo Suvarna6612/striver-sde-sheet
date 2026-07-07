@@ -57,12 +57,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 34     | Binary Trees                | 4        |
 | Day 35     | Binary Trees                | 4        |
 | Day 36     | Binary Trees Part-II        | 4        |
+| Day 37     | Binary Trees Part-III       | 4        |
+
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 36 / 45
-* ✅ Problems Solved: 119
+* ✅ Days Completed: 37 / 45
+* ✅ Problems Solved: 123
 * ✅ Language Used: Java
 
 ---
@@ -107,6 +109,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 34 | Morris Preorder Traversal, Binary Tree Right Side View, Bottom View of Binary Tree, Top View of Binary Tree | Morris Traversal, Level Order Traversal (BFS), Horizontal Distance Mapping, Tree Views, Queue, TreeMap, Binary Tree Visualization |
 | Day 35 | Preorder, Inorder & Postorder in One Traversal, Vertical Order Traversal, Root to Leaf Paths, Maximum Width of Binary Tree | Single Stack Traversal, Vertical Traversal using BFS + TreeMap + PriorityQueue, DFS Backtracking, Level Order Traversal with Indexed Positions, Queue, Binary Tree Views |
 | Day 36 | Level Order Traversal, Maximum Depth of Binary Tree, Diameter of Binary Tree, Balanced Binary Tree | Breadth-First Search (BFS), Queue-based Level Order Traversal, Recursive Tree Height, DFS, Tree Diameter using Height Calculation, Height-Balanced Trees, Bottom-Up Recursion, Tree Dynamic Programming |
+| Day 37 | Lowest Common Ancestor of Binary Tree, Same Tree, Binary Tree Zigzag Level Order Traversal, Boundary Traversal | Lowest Common Ancestor (LCA), Recursive Tree Comparison, Zigzag Level Order Traversal using BFS, Boundary Traversal (Left Boundary, Leaf Nodes, Right Boundary), Queue, DFS, Stack |
 
 ---
 
@@ -198,6 +201,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Tree Height
 * Bottom-Up Recursion
 * Tree Dynamic Programming
+* Lowest Common Ancestor (LCA)
+* Same Tree
+* Zigzag Level Order Traversal
+* Boundary Traversal
+* Left Boundary Traversal
+* Right Boundary Traversal
+* Leaf Node Traversal
+* Recursive Tree Comparison
 
 ---
 
@@ -229,9 +240,9 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 36 Days Completed
+✅ 37 Days Completed
 
-✅ 119 Problems Solved
+✅ 123 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
