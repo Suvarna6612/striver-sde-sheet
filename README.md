@@ -57,14 +57,15 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 34     | Binary Trees                | 4        |
 | Day 35     | Binary Trees                | 4        |
 | Day 36     | Binary Trees Part-II        | 4        |
-| Day 37     | Binary Trees Part-III       | 4        |
+| Day 37     | Binary Trees Part-II        | 4        |
+| Day 38     | Binary Trees Part-III       | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 37 / 45
-* ✅ Problems Solved: 123
+* ✅ Days Completed: 38 / 45
+* ✅ Problems Solved: 126
 * ✅ Language Used: Java
 
 ---
@@ -110,6 +111,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 35 | Preorder, Inorder & Postorder in One Traversal, Vertical Order Traversal, Root to Leaf Paths, Maximum Width of Binary Tree | Single Stack Traversal, Vertical Traversal using BFS + TreeMap + PriorityQueue, DFS Backtracking, Level Order Traversal with Indexed Positions, Queue, Binary Tree Views |
 | Day 36 | Level Order Traversal, Maximum Depth of Binary Tree, Diameter of Binary Tree, Balanced Binary Tree | Breadth-First Search (BFS), Queue-based Level Order Traversal, Recursive Tree Height, DFS, Tree Diameter using Height Calculation, Height-Balanced Trees, Bottom-Up Recursion, Tree Dynamic Programming |
 | Day 37 | Lowest Common Ancestor of Binary Tree, Same Tree, Binary Tree Zigzag Level Order Traversal, Boundary Traversal | Lowest Common Ancestor (LCA), Recursive Tree Comparison, Zigzag Level Order Traversal using BFS, Boundary Traversal (Left Boundary, Leaf Nodes, Right Boundary), Queue, DFS, Stack |
+| Day 38 | Binary Tree Maximum Path Sum, Construct Binary Tree from Preorder & Inorder Traversal, Construct Binary Tree from Inorder & Postorder Traversal | Postorder DFS, Maximum Path Sum, Binary Tree Reconstruction, Preorder & Inorder Traversal, Postorder & Inorder Traversal, HashMap Optimization, Divide and Conquer |
 
 ---
 
@@ -209,6 +211,12 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Right Boundary Traversal
 * Leaf Node Traversal
 * Recursive Tree Comparison
+* Binary Tree Maximum Path Sum
+* Binary Tree Reconstruction
+* Construct Binary Tree from Preorder & Inorder
+* Construct Binary Tree from Inorder & Postorder
+* Divide and Conquer
+* Postorder DFS
 
 ---
 
@@ -240,9 +248,9 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 37 Days Completed
+✅ 38 Days Completed
 
-✅ 123 Problems Solved
+✅ 126 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
