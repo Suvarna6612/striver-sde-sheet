@@ -59,13 +59,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 36     | Binary Trees Part-II        | 4        |
 | Day 37     | Binary Trees Part-II        | 4        |
 | Day 38     | Binary Trees Part-III       | 3        |
+| Day 39     | Binary Trees Part-III       | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 38 / 45
-* ✅ Problems Solved: 126
+* ✅ Days Completed: 39 / 45
+* ✅ Problems Solved: 129
 * ✅ Language Used: Java
 
 ---
@@ -112,6 +113,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 36 | Level Order Traversal, Maximum Depth of Binary Tree, Diameter of Binary Tree, Balanced Binary Tree | Breadth-First Search (BFS), Queue-based Level Order Traversal, Recursive Tree Height, DFS, Tree Diameter using Height Calculation, Height-Balanced Trees, Bottom-Up Recursion, Tree Dynamic Programming |
 | Day 37 | Lowest Common Ancestor of Binary Tree, Same Tree, Binary Tree Zigzag Level Order Traversal, Boundary Traversal | Lowest Common Ancestor (LCA), Recursive Tree Comparison, Zigzag Level Order Traversal using BFS, Boundary Traversal (Left Boundary, Leaf Nodes, Right Boundary), Queue, DFS, Stack |
 | Day 38 | Binary Tree Maximum Path Sum, Construct Binary Tree from Preorder & Inorder Traversal, Construct Binary Tree from Inorder & Postorder Traversal | Postorder DFS, Maximum Path Sum, Binary Tree Reconstruction, Preorder & Inorder Traversal, Postorder & Inorder Traversal, HashMap Optimization, Divide and Conquer |
+| Day 39 | Symmetric Tree, Flatten Binary Tree to Linked List, Children Sum Property | Mirror Tree Comparison, Tree Flattening using Reverse Preorder Traversal, In-place Tree Transformation, Children Sum Property Validation, DFS, Recursion |
 
 ---
 
@@ -217,6 +219,12 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Construct Binary Tree from Inorder & Postorder
 * Divide and Conquer
 * Postorder DFS
+* Symmetric Binary Tree
+* Mirror Tree
+* Flatten Binary Tree to Linked List
+* Reverse Preorder Traversal
+* In-place Tree Transformation
+* Children Sum Property
 
 ---
 
@@ -248,9 +256,9 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 38 Days Completed
+✅ 39 Days Completed
 
-✅ 126 Problems Solved
+✅ 129 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
