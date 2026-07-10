@@ -60,13 +60,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 37     | Binary Trees Part-II        | 4        |
 | Day 38     | Binary Trees Part-III       | 3        |
 | Day 39     | Binary Trees Part-III       | 3        |
+| Day 40     | Binary Search Tree          | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 39 / 45
-* ✅ Problems Solved: 129
+* ✅ Days Completed: 40 / 45
+* ✅ Problems Solved: 132
 * ✅ Language Used: Java
 
 ---
@@ -114,6 +115,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 37 | Lowest Common Ancestor of Binary Tree, Same Tree, Binary Tree Zigzag Level Order Traversal, Boundary Traversal | Lowest Common Ancestor (LCA), Recursive Tree Comparison, Zigzag Level Order Traversal using BFS, Boundary Traversal (Left Boundary, Leaf Nodes, Right Boundary), Queue, DFS, Stack |
 | Day 38 | Binary Tree Maximum Path Sum, Construct Binary Tree from Preorder & Inorder Traversal, Construct Binary Tree from Inorder & Postorder Traversal | Postorder DFS, Maximum Path Sum, Binary Tree Reconstruction, Preorder & Inorder Traversal, Postorder & Inorder Traversal, HashMap Optimization, Divide and Conquer |
 | Day 39 | Symmetric Tree, Flatten Binary Tree to Linked List, Children Sum Property | Mirror Tree Comparison, Tree Flattening using Reverse Preorder Traversal, In-place Tree Transformation, Children Sum Property Validation, DFS, Recursion |
+| Day 40 | Populating Next Right Pointers in Each Node, Search in a Binary Search Tree, Convert Sorted Array to Binary Search Tree | Level Order Connection using Next Pointers, Binary Search Tree Search, Height-Balanced BST Construction, Divide and Conquer, Recursion, Binary Search Tree Properties |
 
 ---
 
@@ -225,6 +227,13 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Reverse Preorder Traversal
 * In-place Tree Transformation
 * Children Sum Property
+* Binary Search Tree (BST)
+* BST Search
+* Height-Balanced BST
+* Sorted Array to BST
+* Divide and Conquer
+* Next Right Pointer
+* Tree Connections
 
 ---
 
@@ -256,9 +265,9 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 39 Days Completed
+✅ 40 Days Completed
 
-✅ 129 Problems Solved
+✅ 132 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
