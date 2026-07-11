@@ -61,13 +61,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 38     | Binary Trees Part-III       | 3        |
 | Day 39     | Binary Trees Part-III       | 3        |
 | Day 40     | Binary Search Tree          | 3        |
+| Day 41     | Binary Search Tree          | 4        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 40 / 45
-* ✅ Problems Solved: 132
+* ✅ Days Completed: 41 / 45
+* ✅ Problems Solved: 136
 * ✅ Language Used: Java
 
 ---
@@ -116,6 +117,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 38 | Binary Tree Maximum Path Sum, Construct Binary Tree from Preorder & Inorder Traversal, Construct Binary Tree from Inorder & Postorder Traversal | Postorder DFS, Maximum Path Sum, Binary Tree Reconstruction, Preorder & Inorder Traversal, Postorder & Inorder Traversal, HashMap Optimization, Divide and Conquer |
 | Day 39 | Symmetric Tree, Flatten Binary Tree to Linked List, Children Sum Property | Mirror Tree Comparison, Tree Flattening using Reverse Preorder Traversal, In-place Tree Transformation, Children Sum Property Validation, DFS, Recursion |
 | Day 40 | Populating Next Right Pointers in Each Node, Search in a Binary Search Tree, Convert Sorted Array to Binary Search Tree | Level Order Connection using Next Pointers, Binary Search Tree Search, Height-Balanced BST Construction, Divide and Conquer, Recursion, Binary Search Tree Properties |
+| Day 41 | Construct BST from Preorder Traversal, Validate Binary Search Tree, Lowest Common Ancestor of a Binary Search Tree, Inorder Successor and Predecessor in BST | BST Construction from Preorder using Bounds, BST Validation using Min-Max Range, Lowest Common Ancestor (LCA) in BST, Inorder Successor & Predecessor Search, Recursive DFS, BST Properties, Tree Traversal |
 
 ---
 
@@ -234,6 +236,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Divide and Conquer
 * Next Right Pointer
 * Tree Connections
+* BST Validation
+* BST Construction from Preorder
+* Lowest Common Ancestor in BST
+* Inorder Successor
+* Inorder Predecessor
+* Min-Max Range Validation
+* Bounds Technique
+* Recursive DFS
 
 ---
 
@@ -265,9 +275,9 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 40 Days Completed
+✅ 41 Days Completed
 
-✅ 132 Problems Solved
+✅ 136 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
