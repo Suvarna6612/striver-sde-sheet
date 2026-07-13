@@ -63,13 +63,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 40     | Binary Search Tree          | 3        |
 | Day 41     | Binary Search Tree          | 4        |
 | Day 42     | Binary Search Tree Part-II  | 3        |
+| Day 43     | Binary Search Tree Part-III | 4        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 42 / 45
-* ✅ Problems Solved: 139
+* ✅ Days Completed: 43 / 45
+* ✅ Problems Solved: 143
 * ✅ Language Used: Java
 
 ---
@@ -120,6 +121,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 40 | Populating Next Right Pointers in Each Node, Search in a Binary Search Tree, Convert Sorted Array to Binary Search Tree | Level Order Connection using Next Pointers, Binary Search Tree Search, Height-Balanced BST Construction, Divide and Conquer, Recursion, Binary Search Tree Properties |
 | Day 41 | Construct BST from Preorder Traversal, Validate Binary Search Tree, Lowest Common Ancestor of a Binary Search Tree, Inorder Successor and Predecessor in BST | BST Construction from Preorder using Bounds, BST Validation using Min-Max Range, Lowest Common Ancestor (LCA) in BST, Inorder Successor & Predecessor Search, Recursive DFS, BST Properties, Tree Traversal |
 | Day 42 | Floor and Ceil in a BST, Kth Smallest Element in a BST, Kth Smallest and Largest Element in BST | Floor & Ceil Search in BST, Inorder Traversal, BST Properties, Kth Smallest Element, Kth Largest Element, Binary Search Tree Traversal |
+| Day 43 | Two Sum IV - Input is a BST, BST Iterator, Maximum Sum BST in Binary Tree, Serialize and Deserialize Binary Tree | Two-Pointer Technique using BST Iterators, Lazy Inorder Traversal with Stack, Postorder DFS for BST Validation & Maximum Sum, Level Order (BFS) Serialization & Deserialization, Queue, Stack, Tree Traversal |
 
 ---
 
@@ -251,6 +253,20 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Kth Smallest Element in BST
 * Kth Largest Element in BST
 * Inorder Traversal in BST
+* BST Iterator
+* Two Sum IV in BST
+* Two-Pointer Technique on BST
+* Lazy Inorder Traversal
+* Explicit Stack Traversal
+* Serialize Binary Tree
+* Deserialize Binary Tree
+* Level Order Serialization
+* Breadth-First Serialization (BFS)
+* Queue-based Tree Reconstruction
+* Maximum Sum BST
+* BST Validation in Binary Tree
+* Postorder Tree DP
+* Tree Information Propagation
 
 ---
 
@@ -282,9 +298,9 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 42 Days Completed
+✅ 43 Days Completed
 
-✅ 139 Problems Solved
+✅ 143 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
