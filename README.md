@@ -62,13 +62,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 39     | Binary Trees Part-III       | 3        |
 | Day 40     | Binary Search Tree          | 3        |
 | Day 41     | Binary Search Tree          | 4        |
+| Day 42     | Binary Search Tree Part-II  | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 41 / 45
-* ✅ Problems Solved: 136
+* ✅ Days Completed: 42 / 45
+* ✅ Problems Solved: 139
 * ✅ Language Used: Java
 
 ---
@@ -118,6 +119,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 39 | Symmetric Tree, Flatten Binary Tree to Linked List, Children Sum Property | Mirror Tree Comparison, Tree Flattening using Reverse Preorder Traversal, In-place Tree Transformation, Children Sum Property Validation, DFS, Recursion |
 | Day 40 | Populating Next Right Pointers in Each Node, Search in a Binary Search Tree, Convert Sorted Array to Binary Search Tree | Level Order Connection using Next Pointers, Binary Search Tree Search, Height-Balanced BST Construction, Divide and Conquer, Recursion, Binary Search Tree Properties |
 | Day 41 | Construct BST from Preorder Traversal, Validate Binary Search Tree, Lowest Common Ancestor of a Binary Search Tree, Inorder Successor and Predecessor in BST | BST Construction from Preorder using Bounds, BST Validation using Min-Max Range, Lowest Common Ancestor (LCA) in BST, Inorder Successor & Predecessor Search, Recursive DFS, BST Properties, Tree Traversal |
+| Day 42 | Floor and Ceil in a BST, Kth Smallest Element in a BST, Kth Smallest and Largest Element in BST | Floor & Ceil Search in BST, Inorder Traversal, BST Properties, Kth Smallest Element, Kth Largest Element, Binary Search Tree Traversal |
 
 ---
 
@@ -244,6 +246,11 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Min-Max Range Validation
 * Bounds Technique
 * Recursive DFS
+* Floor in BST
+* Ceil in BST
+* Kth Smallest Element in BST
+* Kth Largest Element in BST
+* Inorder Traversal in BST
 
 ---
 
@@ -275,9 +282,9 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 41 Days Completed
+✅ 42 Days Completed
 
-✅ 136 Problems Solved
+✅ 139 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
