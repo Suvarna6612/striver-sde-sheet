@@ -2,7 +2,7 @@ import java.util.Stack;
 
 class BSTIterator {
 
-    private Stack<TreeNode> stack = new Stack<>();
+    private final Stack<TreeNode> stack = new Stack<>();
 
     public BSTIterator(TreeNode root) {
         pushLeft(root);
