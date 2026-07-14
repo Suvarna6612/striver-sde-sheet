@@ -64,13 +64,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 41     | Binary Search Tree          | 4        |
 | Day 42     | Binary Search Tree Part-II  | 3        |
 | Day 43     | Binary Search Tree Part-III | 4        |
+| Day 44     | Binary Trees Miscellaneous  | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 43 / 45
-* ✅ Problems Solved: 143
+* ✅ Days Completed: 44 / 45
+* ✅ Problems Solved: 146
 * ✅ Language Used: Java
 
 ---
@@ -122,6 +123,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 41 | Construct BST from Preorder Traversal, Validate Binary Search Tree, Lowest Common Ancestor of a Binary Search Tree, Inorder Successor and Predecessor in BST | BST Construction from Preorder using Bounds, BST Validation using Min-Max Range, Lowest Common Ancestor (LCA) in BST, Inorder Successor & Predecessor Search, Recursive DFS, BST Properties, Tree Traversal |
 | Day 42 | Floor and Ceil in a BST, Kth Smallest Element in a BST, Kth Smallest and Largest Element in BST | Floor & Ceil Search in BST, Inorder Traversal, BST Properties, Kth Smallest Element, Kth Largest Element, Binary Search Tree Traversal |
 | Day 43 | Two Sum IV - Input is a BST, BST Iterator, Maximum Sum BST in Binary Tree, Serialize and Deserialize Binary Tree | Two-Pointer Technique using BST Iterators, Lazy Inorder Traversal with Stack, Postorder DFS for BST Validation & Maximum Sum, Level Order (BFS) Serialization & Deserialization, Queue, Stack, Tree Traversal |
+| Day 44 | Flatten Binary Tree to Linked List, Find Median from Data Stream, Kth Largest Element in a Stream | Morris-style Tree Flattening, Two Heaps (Max Heap & Min Heap), Heap Balancing, Min Heap for Kth Largest, Priority Queue, Tree Traversal, Streaming Data Processing |
 
 ---
 
@@ -267,6 +269,18 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * BST Validation in Binary Tree
 * Postorder Tree DP
 * Tree Information Propagation
+* Binary Trees Miscellaneous
+* Flatten Binary Tree
+* Morris-style Tree Flattening
+* Find Median from Data Stream
+* Two Heaps
+* Max Heap
+* Min Heap
+* Heap Balancing
+* Streaming Data Processing
+* Kth Largest Element in a Stream
+* Fixed Size Min Heap
+* Priority Queue
 
 ---
 
@@ -298,9 +312,9 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 43 Days Completed
+✅ 44 Days Completed
 
-✅ 143 Problems Solved
+✅ 146 Problems Solved
 
 🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
 
