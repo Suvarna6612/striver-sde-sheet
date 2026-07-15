@@ -65,13 +65,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 42     | Binary Search Tree Part-II  | 3        |
 | Day 43     | Binary Search Tree Part-III | 4        |
 | Day 44     | Binary Trees Miscellaneous  | 3        |
+| Day 45     | Binary Trees Miscellaneous  | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 44 / 45
-* ✅ Problems Solved: 146
+* ✅ Days Completed: 45 / 45
+* ✅ Problems Solved: 149
 * ✅ Language Used: Java
 
 ---
@@ -124,6 +125,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 42 | Floor and Ceil in a BST, Kth Smallest Element in a BST, Kth Smallest and Largest Element in BST | Floor & Ceil Search in BST, Inorder Traversal, BST Properties, Kth Smallest Element, Kth Largest Element, Binary Search Tree Traversal |
 | Day 43 | Two Sum IV - Input is a BST, BST Iterator, Maximum Sum BST in Binary Tree, Serialize and Deserialize Binary Tree | Two-Pointer Technique using BST Iterators, Lazy Inorder Traversal with Stack, Postorder DFS for BST Validation & Maximum Sum, Level Order (BFS) Serialization & Deserialization, Queue, Stack, Tree Traversal |
 | Day 44 | Flatten Binary Tree to Linked List, Find Median from Data Stream, Kth Largest Element in a Stream | Morris-style Tree Flattening, Two Heaps (Max Heap & Min Heap), Heap Balancing, Min Heap for Kth Largest, Priority Queue, Tree Traversal, Streaming Data Processing |
+| Day 45 | Distinct Numbers in Each Subarray, Kth Largest Element in an Array, Flood Fill | Sliding Window with HashMap, Min Heap (Priority Queue), DFS, Graph Traversal, Matrix Traversal, Frequency Counting |
 
 ---
 
@@ -281,6 +283,18 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Kth Largest Element in a Stream
 * Fixed Size Min Heap
 * Priority Queue
+* Distinct Numbers in Each Subarray
+* Sliding Window with HashMap
+* Frequency Counting
+* Kth Largest Element in an Array
+* Heap
+* Min Heap
+* Quickselect
+* Flood Fill
+* Depth-First Search (DFS)
+* Graph Traversal
+* Matrix Traversal
+* Connected Components
 
 ---
 
@@ -312,10 +326,12 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-✅ 44 Days Completed
+🏆 45 Days Completed
 
-✅ 146 Problems Solved
+🏆 149 Problems Solved
 
-🚀 Continuing towards completing all 45 days of Striver's SDE Sheet.
+🎉 Successfully Completed Striver's 45-Day SDE Sheet Challenge in Java.
 
-### Let's Crack Top Product Companies 🚀
+Thank you to Striver (takeUforward) for creating this amazing roadmap for interview preparation. The journey strengthened my understanding of Data Structures & Algorithms and improved my problem-solving skills through consistent daily practice.
+
+Looking forward to solving more advanced problems and preparing for Software Engineering interviews.
