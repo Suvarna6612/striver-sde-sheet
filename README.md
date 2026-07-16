@@ -66,13 +66,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 43     | Binary Search Tree Part-III | 4        |
 | Day 44     | Binary Trees Miscellaneous  | 3        |
 | Day 45     | Binary Trees Miscellaneous  | 3        |
+| Day 46     | Graph                       | 2        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 45 / 45
-* ✅ Problems Solved: 149
+* ✅ Days Completed: 46 / 45
+* ✅ Problems Solved: 151
 * ✅ Language Used: Java
 
 ---
@@ -126,6 +127,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 43 | Two Sum IV - Input is a BST, BST Iterator, Maximum Sum BST in Binary Tree, Serialize and Deserialize Binary Tree | Two-Pointer Technique using BST Iterators, Lazy Inorder Traversal with Stack, Postorder DFS for BST Validation & Maximum Sum, Level Order (BFS) Serialization & Deserialization, Queue, Stack, Tree Traversal |
 | Day 44 | Flatten Binary Tree to Linked List, Find Median from Data Stream, Kth Largest Element in a Stream | Morris-style Tree Flattening, Two Heaps (Max Heap & Min Heap), Heap Balancing, Min Heap for Kth Largest, Priority Queue, Tree Traversal, Streaming Data Processing |
 | Day 45 | Distinct Numbers in Each Subarray, Kth Largest Element in an Array, Flood Fill | Sliding Window with HashMap, Min Heap (Priority Queue), DFS, Graph Traversal, Matrix Traversal, Frequency Counting |
+| Day 46 | Clone Graph, Graph Traversal Techniques (DFS & BFS) | Graph Representation using Adjacency List, Depth-First Search (DFS), Breadth-First Search (BFS), Graph Cloning using HashMap, Queue, Recursion, Visited Node Tracking |
 
 ---
 
@@ -295,6 +297,18 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Graph Traversal
 * Matrix Traversal
 * Connected Components
+* Graphs
+* Graph Representation
+* Adjacency List
+* Graph Traversal
+* Breadth-First Search (BFS)
+* Depth-First Search (DFS)
+* Clone Graph
+* Graph Cloning
+* Visited Array
+* Queue
+* Recursive DFS
+* Connected Components
 
 ---
 
@@ -312,6 +326,7 @@ Stacks/
 Queues/
 Strings/
 BinaryTrees/
+Graphs/
 ```
 
 ---
@@ -326,12 +341,14 @@ BinaryTrees/
 
 ## Challenge Status 🔥
 
-🏆 45 Days Completed
+🏆 46 Days Completed
 
-🏆 149 Problems Solved
+🏆 151 Problems Solved
 
-🎉 Successfully Completed Striver's 45-Day SDE Sheet Challenge in Java.
+🚀 Continuing beyond the original 45-Day Striver SDE Sheet Challenge.
 
-Thank you to Striver (takeUforward) for creating this amazing roadmap for interview preparation. The journey strengthened my understanding of Data Structures & Algorithms and improved my problem-solving skills through consistent daily practice.
+After completing the challenge, I decided to continue solving additional interview problems to deepen my understanding of Data Structures & Algorithms.
+
+The journey has strengthened my problem-solving skills, improved my consistency, and expanded my knowledge across Arrays, Linked Lists, Trees, Binary Search Trees, Heaps, Graphs, and many other interview topics.
 
 Looking forward to solving more advanced problems and preparing for Software Engineering interviews.
