@@ -1,0 +1,45 @@
+import java.util.*;
+
+class Node {
+    public int val;
+    public List<Node> neighbors;
+
+    public Node() {
+        val = 0;
+        neighbors = new ArrayList<>();
+    }
+
+    public Node(int val) {
+        this.val = val;
+        neighbors = new ArrayList<>();
+    }
+
+    public Node(int val, ArrayList<Node> neighbors) {
+        this.val = val;
+        this.neighbors = neighbors;
+    }
+}
+class Solution {
+
+    private HashMap<Node, Node> map = new HashMap<>();
+
+    public Node cloneGraph(Node node) {
+
+        if (node == null) {
+            return null;
+        }
+
+        if (map.containsKey(node)) {
+            return map.get(node);
+        }
+
+        Node clone = new Node(node.val);
+        map.put(node, clone);
+
+        for (Node neighbour : node.neighbors) {
+            clone.neighbors.add(cloneGraph(neighbour));
+        }
+
+        return clone;
+    }
+}
