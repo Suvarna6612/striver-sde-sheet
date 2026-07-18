@@ -67,13 +67,15 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 44     | Binary Trees Miscellaneous  | 3        |
 | Day 45     | Binary Trees Miscellaneous  | 3        |
 | Day 46     | Graph                       | 2        |
+| Day 47     | Graph                       | 2        |
+| Day 48     | Graph                       | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 46 / 45
-* ✅ Problems Solved: 151
+* ✅ Days Completed: 48 / 45
+* ✅ Problems Solved: 156
 * ✅ Language Used: Java
 
 ---
@@ -128,6 +130,8 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 44 | Flatten Binary Tree to Linked List, Find Median from Data Stream, Kth Largest Element in a Stream | Morris-style Tree Flattening, Two Heaps (Max Heap & Min Heap), Heap Balancing, Min Heap for Kth Largest, Priority Queue, Tree Traversal, Streaming Data Processing |
 | Day 45 | Distinct Numbers in Each Subarray, Kth Largest Element in an Array, Flood Fill | Sliding Window with HashMap, Min Heap (Priority Queue), DFS, Graph Traversal, Matrix Traversal, Frequency Counting |
 | Day 46 | Clone Graph, Graph Traversal Techniques (DFS & BFS) | Graph Representation using Adjacency List, Depth-First Search (DFS), Breadth-First Search (BFS), Graph Cloning using HashMap, Queue, Recursion, Visited Node Tracking |
+| Day 47 | Detect Cycle in Undirected Graph (BFS), Detect Cycle in Directed Graph (DFS) | Cycle Detection in Undirected Graph using Parent Tracking (BFS), Cycle Detection in Directed Graph using DFS, Recursion Stack (pathVisited), Graph Traversal, Visited Arrays |
+| Day 48 | Topological Sort (BFS - Kahn's Algorithm), Detect Cycle in Directed Graph (BFS), Detect Cycle in Directed Graph (DFS) | Kahn's Algorithm, Topological Sorting, Indegree Calculation, Queue-based BFS, Cycle Detection using Processed Node Count, DFS Cycle Detection, Directed Graphs |
 
 ---
 
@@ -309,6 +313,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Queue
 * Recursive DFS
 * Connected Components
+* Cycle Detection in Undirected Graph
+* Parent Tracking
+* Cycle Detection in Directed Graph
+* Kahn's Algorithm
+* Topological Sort
+* Indegree
+* Directed Acyclic Graph (DAG)
+* Recursion Stack
 
 ---
 
@@ -341,9 +353,9 @@ Graphs/
 
 ## Challenge Status 🔥
 
-🏆 46 Days Completed
+🏆 48 Days Completed
 
-🏆 151 Problems Solved
+🏆 156 Problems Solved
 
 🚀 Continuing beyond the original 45-Day Striver SDE Sheet Challenge.
 
