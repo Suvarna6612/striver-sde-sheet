@@ -70,13 +70,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 47     | Graph                       | 2        |
 | Day 48     | Graph                       | 3        |
 | Day 49     | Graph                       | 3        |
+| Day 50     | Graph Part-II               | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 49 / 45
-* ✅ Problems Solved: 159
+* ✅ Days Completed: 50 / 45
+* ✅ Problems Solved: 162
 * ✅ Language Used: Java
 
 ---
@@ -134,6 +135,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 47 | Detect Cycle in Undirected Graph (BFS), Detect Cycle in Directed Graph (DFS) | Cycle Detection in Undirected Graph using Parent Tracking (BFS), Cycle Detection in Directed Graph using DFS, Recursion Stack (pathVisited), Graph Traversal, Visited Arrays |
 | Day 48 | Topological Sort (BFS - Kahn's Algorithm), Detect Cycle in Directed Graph (BFS), Detect Cycle in Directed Graph (DFS) | Kahn's Algorithm, Topological Sorting, Indegree Calculation, Queue-based BFS, Cycle Detection using Processed Node Count, DFS Cycle Detection, Directed Graphs |
 | Day 49 | Number of Islands (DFS), Bipartite Graph (BFS), Bipartite Graph (DFS) | Grid Traversal using DFS, Connected Components, Graph Coloring, Bipartite Graph Detection using BFS & DFS, Two-Coloring Technique, Graph Traversal |
+| Day 50 | Dijkstra's Algorithm, Bellman-Ford Algorithm, Kosaraju's Algorithm | Single Source Shortest Path, Priority Queue (Min Heap), Edge Relaxation, Negative Weight Cycle Detection, Strongly Connected Components (SCC), Graph Transposition, DFS, Stack |
 
 ---
 
@@ -329,6 +331,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Bipartite Graph
 * Graph Coloring
 * Two-Coloring Technique
+* Dijkstra's Algorithm
+* Bellman-Ford Algorithm
+* Shortest Path Algorithms
+* Edge Relaxation
+* Negative Weight Cycle Detection
+* Strongly Connected Components (SCC)
+* Kosaraju's Algorithm
+* Graph Transposition
 
 ---
 
@@ -361,9 +371,9 @@ Graphs/
 
 ## Challenge Status 🔥
 
-🏆 49 Days Completed
+🏆 50 Days Completed
 
-🏆 159 Problems Solved
+🏆 162 Problems Solved
 
 🚀 Continuing beyond the original 45-Day Striver SDE Sheet Challenge.
 
