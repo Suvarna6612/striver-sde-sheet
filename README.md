@@ -72,13 +72,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 49     | Graph                       | 3        |
 | Day 50     | Graph Part-II               | 3        |
 | Day 51     | Graph Part-II               | 3        |
+| Day 52     | Dynamic Programming         | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 51 / 45
-* ✅ Problems Solved: 165
+* ✅ Days Completed: 52 / 45
+* ✅ Problems Solved: 168
 * ✅ Language Used: Java
 
 ---
@@ -138,6 +139,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 49 | Number of Islands (DFS), Bipartite Graph (BFS), Bipartite Graph (DFS) | Grid Traversal using DFS, Connected Components, Graph Coloring, Bipartite Graph Detection using BFS & DFS, Two-Coloring Technique, Graph Traversal |
 | Day 50 | Dijkstra's Algorithm, Bellman-Ford Algorithm, Kosaraju's Algorithm | Single Source Shortest Path, Priority Queue (Min Heap), Edge Relaxation, Negative Weight Cycle Detection, Strongly Connected Components (SCC), Graph Transposition, DFS, Stack |
 | Day 51 | Prim's Algorithm, Kruskal's Algorithm, Floyd Warshall Algorithm | Minimum Spanning Tree (MST), Priority Queue (Min Heap), Disjoint Set Union (Union-Find), Greedy Algorithms, Edge Sorting, Dynamic Programming on Graphs, All-Pairs Shortest Path |
+| Day 52 | Maximum Product Subarray, Longest Increasing Subsequence, Longest Common Subsequence | Prefix & Suffix Traversal, 1D Dynamic Programming, 2D Dynamic Programming, State Transition, Overlapping Subproblems, Optimal Substructure |
 
 ---
 
@@ -351,6 +353,15 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Floyd Warshall Algorithm
 * All-Pairs Shortest Path
 * Dynamic Programming on Graphs
+* Longest Increasing Subsequence (LIS)
+* Longest Common Subsequence (LCS)
+* Maximum Product Subarray
+* Prefix & Suffix Product Technique
+* 1D Dynamic Programming
+* 2D Dynamic Programming
+* State Transition
+* Overlapping Subproblems
+* Optimal Substructure
 
 ---
 
@@ -369,6 +380,7 @@ Queues/
 Strings/
 BinaryTrees/
 Graphs/
+DynamicProgramming/
 ```
 
 ---
@@ -383,9 +395,9 @@ Graphs/
 
 ## Challenge Status 🔥
 
-🏆 51 Days Completed
+🏆 52 Days Completed
 
-🏆 165 Problems Solved
+🏆 168 Problems Solved
 
 🚀 Continuing beyond the original 45-Day Striver SDE Sheet Challenge.
 
