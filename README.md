@@ -75,13 +75,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 52     | Dynamic Programming         | 3        |
 | Day 53     | Dynamic Programming         | 4        |
 | Day 54     | Dynamic Programming Part-II | 3        |
+| Day 55     | Dynamic Programming Part-II | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 54 / 45
-* ✅ Problems Solved: 175
+* ✅ Days Completed: 55 / 45
+* ✅ Problems Solved: 178
 * ✅ Language Used: Java
 
 ---
@@ -144,6 +145,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 52 | Maximum Product Subarray, Longest Increasing Subsequence, Longest Common Subsequence | Prefix & Suffix Traversal, 1D Dynamic Programming, 2D Dynamic Programming, State Transition, Overlapping Subproblems, Optimal Substructure |
 | Day 53 | 0/1 Knapsack, Edit Distance, Maximum Sum Increasing Subsequence, Matrix Chain Multiplication | 0/1 Knapsack Dynamic Programming, Edit Distance (Insert/Delete/Replace Operations), Maximum Sum Increasing Subsequence (MSIS), Matrix Chain Multiplication (MCM), Interval Dynamic Programming, State Transition, Optimal Substructure, Overlapping Subproblems |
 | Day 54 | Minimum Path Sum, Coin Change II, Subset Sum Equals Target | Grid Dynamic Programming, Counting DP, DP on Subsequences, Include/Exclude Pattern, State Transition, Space Optimization, Memoization, Tabulation |
+| Day 55 | Rod Cutting Problem, Super Egg Drop, Word Break | Unbounded Knapsack Pattern, Bottom-Up Dynamic Programming (Tabulation), String Dynamic Programming, Memoization, Binary Search Optimization in DP, State Transition Design, Overlapping Subproblems |
 
 ---
 
@@ -387,6 +389,13 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * DP on Subsequences
 * Include/Exclude Pattern
 * Boolean Dynamic Programming
+* Rod Cutting Problem
+* Unbounded Knapsack
+* Super Egg Drop
+* Egg Dropping Problem
+* Binary Search Optimization in Dynamic Programming
+* Word Break
+* String Dynamic Programming
 
 ---
 
@@ -420,9 +429,9 @@ DynamicProgramming/
 
 ## Challenge Status 🔥
 
-🏆 54 Days Completed
+🏆 55 Days Completed
 
-🏆 175 Problems Solved
+🏆 178 Problems Solved
 
 🚀 Continuing beyond the original 45-Day Striver SDE Sheet Challenge.
 
