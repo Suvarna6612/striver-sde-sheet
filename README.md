@@ -76,13 +76,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 53     | Dynamic Programming         | 4        |
 | Day 54     | Dynamic Programming Part-II | 3        |
 | Day 55     | Dynamic Programming Part-II | 3        |
+| Day 56     | Dynamic Programming Part-II | 2        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 55 / 45
-* ✅ Problems Solved: 178
+* ✅ Days Completed: 56 / 45
+* ✅ Problems Solved: 180
 * ✅ Language Used: Java
 
 ---
@@ -146,6 +147,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 53 | 0/1 Knapsack, Edit Distance, Maximum Sum Increasing Subsequence, Matrix Chain Multiplication | 0/1 Knapsack Dynamic Programming, Edit Distance (Insert/Delete/Replace Operations), Maximum Sum Increasing Subsequence (MSIS), Matrix Chain Multiplication (MCM), Interval Dynamic Programming, State Transition, Optimal Substructure, Overlapping Subproblems |
 | Day 54 | Minimum Path Sum, Coin Change II, Subset Sum Equals Target | Grid Dynamic Programming, Counting DP, DP on Subsequences, Include/Exclude Pattern, State Transition, Space Optimization, Memoization, Tabulation |
 | Day 55 | Rod Cutting Problem, Super Egg Drop, Word Break | Unbounded Knapsack Pattern, Bottom-Up Dynamic Programming (Tabulation), String Dynamic Programming, Memoization, Binary Search Optimization in DP, State Transition Design, Overlapping Subproblems |
+| Day 56 | Palindrome Partitioning (MCM Variation), Maximum Profit in Job Scheduling | Partition Dynamic Programming, Matrix Chain Multiplication (MCM) Pattern, Dynamic Programming on Strings, Weighted Interval Scheduling, Binary Search with Dynamic Programming, State Transition Design, Memoization, Optimization Techniques |
 
 ---
 
@@ -396,6 +398,11 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Binary Search Optimization in Dynamic Programming
 * Word Break
 * String Dynamic Programming
+* Palindrome Partitioning (MCM Variation)
+* Partition Dynamic Programming
+* Weighted Interval Scheduling
+* Maximum Profit in Job Scheduling
+* Binary Search with Dynamic Programming
 
 ---
 
@@ -429,9 +436,9 @@ DynamicProgramming/
 
 ## Challenge Status 🔥
 
-🏆 55 Days Completed
+🏆 56 Days Completed
 
-🏆 178 Problems Solved
+🏆 180 Problems Solved
 
 🚀 Continuing beyond the original 45-Day Striver SDE Sheet Challenge.
 
