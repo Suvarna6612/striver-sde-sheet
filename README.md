@@ -77,13 +77,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 54     | Dynamic Programming Part-II | 3        |
 | Day 55     | Dynamic Programming Part-II | 3        |
 | Day 56     | Dynamic Programming Part-II | 2        |
+| Day 57     | Trie                        | 2        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 56 / 45
-* ✅ Problems Solved: 180
+* ✅ Days Completed: 57 / 45
+* ✅ Problems Solved: 182
 * ✅ Language Used: Java
 
 ---
@@ -148,6 +149,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 54 | Minimum Path Sum, Coin Change II, Subset Sum Equals Target | Grid Dynamic Programming, Counting DP, DP on Subsequences, Include/Exclude Pattern, State Transition, Space Optimization, Memoization, Tabulation |
 | Day 55 | Rod Cutting Problem, Super Egg Drop, Word Break | Unbounded Knapsack Pattern, Bottom-Up Dynamic Programming (Tabulation), String Dynamic Programming, Memoization, Binary Search Optimization in DP, State Transition Design, Overlapping Subproblems |
 | Day 56 | Palindrome Partitioning (MCM Variation), Maximum Profit in Job Scheduling | Partition Dynamic Programming, Matrix Chain Multiplication (MCM) Pattern, Dynamic Programming on Strings, Weighted Interval Scheduling, Binary Search with Dynamic Programming, State Transition Design, Memoization, Optimization Techniques |
+| Day 57 | Trie Implementation and Operations, Trie Implementation and Advanced Operations | Trie Data Structure, Prefix Tree, Insert Operation, Search Operation, StartsWith (Prefix Search), Word Count, Prefix Count, Erase Operation, Efficient String Processing |
 
 ---
 
@@ -403,6 +405,16 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Weighted Interval Scheduling
 * Maximum Profit in Job Scheduling
 * Binary Search with Dynamic Programming
+* Trie
+* Prefix Tree
+* Trie Implementation
+* Insert Operation
+* Search Operation
+* StartsWith
+* Word Count
+* Prefix Count
+* Erase Operation
+* Efficient String Processing
 
 ---
 
@@ -422,6 +434,8 @@ Strings/
 BinaryTrees/
 Graphs/
 DynamicProgramming/
+Trie/
+
 ```
 
 ---
@@ -436,9 +450,9 @@ DynamicProgramming/
 
 ## Challenge Status 🔥
 
-🏆 56 Days Completed
+🏆 57 Days Completed
 
-🏆 180 Problems Solved
+🏆 182 Problems Solved
 
 🚀 Continuing beyond the original 45-Day Striver SDE Sheet Challenge.
 
