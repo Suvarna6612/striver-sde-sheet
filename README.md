@@ -78,13 +78,14 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 55     | Dynamic Programming Part-II | 3        |
 | Day 56     | Dynamic Programming Part-II | 2        |
 | Day 57     | Trie                        | 2        |
+| Day 58     | Trie                        | 3        |
 
 ---
 
 ## Current Progress 📈
 
-* ✅ Days Completed: 57 / 45
-* ✅ Problems Solved: 182
+* ✅ Days Completed: 58 / 45
+* ✅ Problems Solved: 185
 * ✅ Language Used: Java
 
 ---
@@ -150,6 +151,7 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 | Day 55 | Rod Cutting Problem, Super Egg Drop, Word Break | Unbounded Knapsack Pattern, Bottom-Up Dynamic Programming (Tabulation), String Dynamic Programming, Memoization, Binary Search Optimization in DP, State Transition Design, Overlapping Subproblems |
 | Day 56 | Palindrome Partitioning (MCM Variation), Maximum Profit in Job Scheduling | Partition Dynamic Programming, Matrix Chain Multiplication (MCM) Pattern, Dynamic Programming on Strings, Weighted Interval Scheduling, Binary Search with Dynamic Programming, State Transition Design, Memoization, Optimization Techniques |
 | Day 57 | Trie Implementation and Operations, Trie Implementation and Advanced Operations | Trie Data Structure, Prefix Tree, Insert Operation, Search Operation, StartsWith (Prefix Search), Word Count, Prefix Count, Erase Operation, Efficient String Processing |
+| Day 58 | Longest Word with All Prefixes, Number of Distinct Substrings in a String, Power Set | Trie Applications, Prefix Validation, Complete String Problem, Distinct Substring Counting using Trie, Suffix Insertion Technique, Backtracking, Pick/Not Pick Recursion Pattern, Efficient String Processing |
 
 ---
 
@@ -415,6 +417,13 @@ This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge u
 * Prefix Count
 * Erase Operation
 * Efficient String Processing
+* Complete String Problem
+* Longest Word with All Prefixes
+* Number of Distinct Substrings
+* Suffix Trie
+* Distinct Substring Counting
+* Power Set
+* Pick / Not Pick Pattern
 
 ---
 
@@ -450,9 +459,9 @@ Trie/
 
 ## Challenge Status 🔥
 
-🏆 57 Days Completed
+🏆 58 Days Completed
 
-🏆 182 Problems Solved
+🏆 185 Problems Solved
 
 🚀 Continuing beyond the original 45-Day Striver SDE Sheet Challenge.
 
