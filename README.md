@@ -1,6 +1,6 @@
 # Striver SDE Sheet Challenge 🚀
 
-This repository contains my solutions for Striver's 45-Day SDE Sheet Challenge using Java.
+This repository contains my solutions for Striver's 59-Day SDE Sheet Challenge using Java.
 
 ## Goal 🎯
 
