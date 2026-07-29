@@ -59,15 +59,15 @@ This repository contains my solutions for Striver's 59-Day SDE Sheet Challenge u
 | Day 36     | Binary Trees Part-II        | 4        |
 | Day 37     | Binary Trees Part-II        | 4        |
 | Day 38     | Binary Trees Part-III       | 3        |
-| Day 39     | Binary Trees Part-III       | 3        |
+| Day 39     | Binary Trees Part-III       | 4        |
 | Day 40     | Binary Search Tree          | 3        |
 | Day 41     | Binary Search Tree          | 4        |
-| Day 42     | Binary Search Tree Part-II  | 3        |
+| Day 42     | Binary Search Tree Part-II  | 4        |
 | Day 43     | Binary Search Tree Part-III | 4        |
 | Day 44     | Binary Trees Miscellaneous  | 3        |
 | Day 45     | Binary Trees Miscellaneous  | 3        |
-| Day 46     | Graph                       | 2        |
-| Day 47     | Graph                       | 2        |
+| Day 46     | Graph                       | 3        |
+| Day 47     | Graph                       | 3        |
 | Day 48     | Graph                       | 3        |
 | Day 49     | Graph                       | 3        |
 | Day 50     | Graph Part-II               | 3        |
