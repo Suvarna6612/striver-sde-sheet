@@ -86,7 +86,7 @@ This repository contains my solutions for Striver's 59-Day SDE Sheet Challenge u
 ## Current Progress 📈
 
 * ✅ Days Completed: 59 / 59
-* ✅ Problems Solved: 187
+* ✅ Problems Solved: 191
 * ✅ Language Used: Java
 * 🏆 Striver SDE Sheet Completed
 
@@ -467,7 +467,7 @@ After 59 days of consistent practice, I have successfully completed the entire *
 ### 📊 Final Statistics
 
 - ✅ 59 Days Completed
-- ✅ 187 Problems Solved
+- ✅ 191 Problems Solved
 - ✅ Java Solutions
 - ✅ Daily GitHub Commits
 - ✅ Daily LinkedIn Progress Updates
